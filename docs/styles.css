@@ -1,0 +1,15 @@
+#theme-toggle {
+ position: fixed;
+ top: 20px;
+ left: 20px;
+ z-index: 100;
+ background: none;
+ border: none;
+ cursor: pointer;
+ color: var(--textColor); /* Usa variáveis de cor do Docsify */
+}
+
+/* Ajusta a cor do ícone para o tema escuro */
+body.dark-theme #theme-toggle {
+ color: var(--textColor);
+}
