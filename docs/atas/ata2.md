@@ -12,27 +12,19 @@
 
 **Presentes**: 
 
-☑ Arthur Carvalho Leite
-
-☑ Emivalto Da Costa Tavares Junior
-
-☑ Felipe das Neves Freire
-
-☑ Gabriel Lima
-
-☑ Leonardo de Melo Lima
-
-☐ Mateus Bastos
-
-☑ Pedro Fonseca Cruz
-
-☑ Samuel Afonso da Silva Santos
-
-☑ Vitor Bessa
+- ✅ Arthur Carvalho Leite
+- ✅ Emivalto Da Costa Tavares Junior
+- ✅ Felipe das Neves Freire
+- ✅ Gabriel Lima
+- ✅ Leonardo de Melo Lima
+- ❌ Mateus Bastos
+- ✅ Pedro Fonseca Cruz
+- ✅ Samuel Afonso da Silva Santos
+- ✅ Vitor Bessa
 
 | Legenda | Presente | Ausente |
 | ---- | ------ | ------- |
-|  | ☑ | ☐ |
+|  | ✅ | ❌ |
 
 ---
 
@@ -76,4 +68,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial do artefato | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+| `1.0` | Inserção dos dados da ata 2 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |

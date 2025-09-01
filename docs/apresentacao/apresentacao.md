@@ -33,4 +33,4 @@ Infos
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Modelagem inicial do artefato | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | [Leonardo de Melo](https://github.com/leozinlima) | 01/09/2025 |
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | [Leonardo de Melo](https://github.com/leozinlima) | 01/09/2025 |
