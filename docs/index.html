@@ -11,6 +11,46 @@
   <link rel="icon" href="./assets/favicon.png" type="image/png">
   <link rel="stylesheet" href="styles.css">
 
+  <style>
+    /* Ajustes personalizados para o tema escuro para melhor visualização */
+    body.dark-theme {
+      /* Paleta de cores -- sinta-se à vontade para ajustá-las */
+      --theme-color: #42b983;       /* Cor de destaque (verde do tema Vue) */
+      --background-color: #202124;  /* Fundo cinza escuro (padrão Google) */
+      --text-color: #e8eaed;         /* Cor de texto clara (padrão Google) */
+      --sidebar-background: #282a2d;
+      --code-background: #2d2d2d;
+      --border-color: #5f6368;
+    }
+
+    /* Aplicação das cores customizadas */
+    body.dark-theme {
+      background-color: var(--background-color);
+      color: var(--text-color);
+    }
+
+    body.dark-theme .sidebar {
+      background-color: var(--sidebar-background);
+      border-right: 1px solid var(--border-color);
+    }
+
+    body.dark-theme .sidebar-nav > ul > li > a {
+      color: var(--text-color);
+    }
+
+    body.dark-theme .sidebar-nav > ul > li.active > a {
+      color: var(--theme-color);
+      border-left-color: var(--theme-color);
+    }
+
+    body.dark-theme a:not(.button) {
+      color: var(--theme-color);
+    }
+
+    body.dark-theme hr, body.dark-theme pre, body.dark-theme blockquote {
+      border-color: var(--border-color);
+    }
+  </style>
  
   <script>
     window.MathJax = {
