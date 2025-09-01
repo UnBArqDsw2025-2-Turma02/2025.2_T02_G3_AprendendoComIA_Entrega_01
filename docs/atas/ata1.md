@@ -6,7 +6,7 @@
 
 | Data | Início | Término | Local |
 | ---- | ------ | ------- | ----- |
-| 28/08/2025 | 08:29 | 08:50 | Via Teams |
+| 28/08/2025 | 08:29 | 08:50 | Microsoft Teams |
 
 **Redator**: Felipe das Neves e Leonardo de Melo
 
