@@ -22,7 +22,7 @@
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
 
 - **Participação dos Integrantes**
-  - [5. Metodologia](participacao/integrantes.md)
+  - [5. Metodologia](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
@@ -33,3 +33,4 @@
   - **Atas**
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
+  - [Ata 03](atas/ata3.md)
