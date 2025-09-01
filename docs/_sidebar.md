@@ -2,6 +2,8 @@
 
 - [Home](/#)
 
+- [Projeto](Projeto/Projeto.md)
+
 - **Desenho do Software**
   - [1. Metodologia](desenhoDoSoftware/metodologiaDesenho.md)
 
@@ -12,8 +14,8 @@
   - [3. Metodologia](designSprint/metodologiaSprint.md)
 
 - **Modelagem BPNM**
-  - [3. Metodologia](Base/1.3.ModelagemBPMN.md)
-  - [3.1. Modelagem](Base/1.3.ModelagemBPMN.md)
+  - [3. Metodologia](bpmn/metodologiaBpmn.md)
+  - [3.1. Modelagem](bpmn/modelagemBpmn.md)
 
 - **Participação do Integrantes**
   - [4. Metodologia](atas/ata1.md)

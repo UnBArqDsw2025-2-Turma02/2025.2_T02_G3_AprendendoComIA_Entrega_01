@@ -1,4 +1,4 @@
-# Metodologia Design Sprint
+# Metodologia BPMN
 
 ---
 

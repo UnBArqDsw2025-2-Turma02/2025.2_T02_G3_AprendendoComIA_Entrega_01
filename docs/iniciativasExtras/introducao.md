@@ -1,6 +1,6 @@
-<span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1</span>
+# Iniciativas Extras
 
-# Metodologia Design Sprint
+---
 
 ## Técnica utilizada
 
@@ -23,6 +23,6 @@ Infos
 
 ## Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
-| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Modelagem inicial do artefato | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | [Leonardo de Melo](https://github.com/leozinlima) | 01/09/2025 |
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
+| `1.0` | Modelagem inicial do artefato | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |

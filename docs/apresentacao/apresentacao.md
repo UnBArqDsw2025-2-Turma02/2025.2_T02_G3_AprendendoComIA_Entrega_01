@@ -1,6 +1,6 @@
-<span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;">Versão 1</span>
-
 # Apresentação Desenho do Software
+
+---
 
 ## Técnica utilizada
 
