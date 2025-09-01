@@ -50,6 +50,16 @@
     body.dark-theme hr, body.dark-theme pre, body.dark-theme blockquote {
       border-color: var(--border-color);
     }
+
+    /* Ajustes para tabelas no modo escuro */
+
+    body.dark-theme th {
+      background-color: var(--sidebar-background); /* Fundo para o cabeçalho */
+    }
+
+    body.dark-theme tr:nth-child(2n) { /* Cor de fundo para linhas pares */
+      background-color: var(--sidebar-background);
+    }
   </style>
  
   <script>

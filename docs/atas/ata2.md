@@ -6,9 +6,9 @@
 
 | Data | Início | Término | Local |
 | ---- | ------ | ------- | ----- |
-| 28/08/2025 | 08:29 | 08:50 | Via Teams |
+| 01/09/2025 | 10:19 | 11:58 | Sala de Aula |
 
-**Redator**: Felipe das Neves e Leonardo de Melo
+**Redator**: Felipe das Neves
 
 **Presentes**: 
 
@@ -24,9 +24,9 @@
 
 ☐ Mateus Bastos
 
-☐ Pedro Fonseca Cruz
+☑ Pedro Fonseca Cruz
 
-☐ Samuel Afonso da Silva Santos
+☑ Samuel Afonso da Silva Santos
 
 ☑ Vitor Bessa
 
@@ -38,15 +38,13 @@
 
 ## Pauta
 
-- Planejamento da entrega do ponto de controle 1
-- Identificação das atividades
+- Realização da metodologia brainstorming
 
 ---
 
 ## Assuntos Tratados
 
-- Decisões sobre contexto do projeto
-- Padronização da documentação
+- O que seria importante ter na aplicação na visão de todos os intregrantes do grupo
 
 ---
 
@@ -54,8 +52,7 @@
 
 | Tarefa | Responsável | Prazo |
 | ------ | ----------- | ----- |
-| Fazer o deploy inicial da documentação no github pages | Felipe das Neves | 01/09/2025 |
-| Iniciar a modelagem da aplicação | Arthur Carvalho | 01/09/2025 |
+| Desenvolver individualmente um artefato para a etapa de diversão/esboço da design sprint | Todos os integrantes | 01/09/2025 |
 
 ---
 
@@ -63,7 +60,7 @@
 
 ## Gravação da Reunião
 
-<p><strong>Reunião 01<em></em></strong></p>
+<p><strong>Reunião 02<em></em></strong></p>
 
 <iframe width="893" height="502" src="https://www.youtube.com/embed/link" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
@@ -79,4 +76,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial do artefato e inserção das informações realizadas na daily | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 28/08/2025 | | | |
+| `1.0` | Modelagem inicial do artefato | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |

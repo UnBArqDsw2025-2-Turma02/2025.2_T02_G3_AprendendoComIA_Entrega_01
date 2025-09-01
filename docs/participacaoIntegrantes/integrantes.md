@@ -1,4 +1,4 @@
-# Metodologia Design Sprint
+# Participação dos Integrantes
 
 ---
 
