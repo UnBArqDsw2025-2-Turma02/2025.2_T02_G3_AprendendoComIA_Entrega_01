@@ -1,12 +1,28 @@
 <!-- docs/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/docs/Projeto/Projeto.md)
+- [Home](/#)
 
-- **Base**
-  - [1. Desenho de Software (Base)](/docs/Base/1.Base.md)
-    - [1.1. Design Sprint](/docs/Base/1.1.DesignSprint.md)
-    - [1.2. Artefato Generalista](/docs/Base/1.2.ArtefatoGeneralista.md)
-    - [1.3. Modelagem BPMN](/docs/Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](/docs/Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](/docs/Base/1.5.IniciativasExtras.md)
+- **Desenho do Software**
+  - [1. Metodologia](desenhoDoSoftware/metodologiaDesenho.md)
+
+- **Design Sprint**
+  - [2. Metodologia](designSprint/metodologiaSprint.md)
+
+- **Artefato Generalista**
+  - [3. Metodologia](designSprint/metodologiaSprint.md)
+
+- **Modelagem BPNM**
+  - [3. Metodologia](Base/1.3.ModelagemBPMN.md)
+  - [3.1. Modelagem](Base/1.3.ModelagemBPMN.md)
+
+- **Participação do Integrantes**
+  - [4. Metodologia](atas/ata1.md)
+
+- **Iniciativas Extras**
+  - [5. Introdução](iniciativasExtras/introducao.md)
+
+- **Apresentação final do Artefato**
+  - [6. Apresentação](apresentacao/apresentacao.md)
+
+  - **Atas**
+  - [Ata 01](atas/ata1.md)
