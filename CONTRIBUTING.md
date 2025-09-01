@@ -1,4 +1,4 @@
-# Guia de Contribuição para Documentação de Requisitos
+# Guia de Contribuição para Documentação
 
 Este repositório segue um padrão colaborativo para organização da documentação de requisitos. Siga as orientações abaixo para mantermos um fluxo de trabalho claro e eficiente.
 
