@@ -9,16 +9,20 @@
 
 - **Design Sprint**
   - [2. Metodologia](designSprint/metodologiaSprint.md)
+    - [2.1. Compreensão](designSprint/compreensao.md)
+    - [2.2. Diversão](designSprint/diversao.md)
+    - [2.3. Decisão](designSprint/decisao.md)
+    - [2.4. Prototipação](designSprint/prototipacao.md)
+    - [2.5. Validação](designSprint/validacao.md)
 
-- **Artefato Generalista**
+- **Artefatos Generalistas**
   - [3. Metodologia](designSprint/metodologiaSprint.md)
 
 - **Modelagem BPNM**
   - [3. Metodologia](bpmn/metodologiaBpmn.md)
-  - [3.1. Modelagem](bpmn/modelagemBpmn.md)
 
-- **Participação do Integrantes**
-  - [4. Metodologia](atas/ata1.md)
+- **Participação dos Integrantes**
+  - [4. Metodologia](participacao/integrantes.md)
 
 - **Iniciativas Extras**
   - [5. Introdução](iniciativasExtras/introducao.md)
@@ -28,3 +32,4 @@
 
   - **Atas**
   - [Ata 01](atas/ata1.md)
+  - [Ata 02](atas/ata2.md)
