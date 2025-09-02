@@ -21,7 +21,7 @@ O **brainstorming** resultou em um quadro com muitas ideias, que foi consolidado
 <div align="center">
 <iframe width="50%" height="450" src="https://miro.com/app/board/uXjVJNopTCE=" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
- <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves e Gabriel Lima</a>.</p>
+ <p>Autores: <a href="#">Arthur, Emivalto, Felipe, Gabriel, Leonardo, Pedro, Samuel e Vitor</a>.</p>
 
 </div>
 

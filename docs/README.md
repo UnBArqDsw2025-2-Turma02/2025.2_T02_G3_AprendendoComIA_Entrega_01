@@ -103,3 +103,11 @@ Para iniciar o site localmente, utilize o comando:
 ```shell
 docsify serve ./docs
 ```
+---
+
+## Histórico de Versões
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 27/08/2025 | | | |
+| `1.1` | Modelagem da capa da home e inserção dos membros da equipe | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
