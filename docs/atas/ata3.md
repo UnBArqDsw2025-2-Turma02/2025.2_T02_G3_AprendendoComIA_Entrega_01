@@ -1,4 +1,4 @@
-# Ata 02
+# Ata 03
 
 ---
 
@@ -6,7 +6,7 @@
 
 | Data | Início | Término | Local |
 | ---- | ------ | ------- | ----- |
-| 01/09/2025 | 10:19 | 11:58 | Sala de Aula |
+| 01/09/2025 | 21:05 | --:-- | Microsoft Teams |
 
 **Redator**: Felipe das Neves
 
@@ -30,13 +30,13 @@
 
 ## Pauta
 
-- Realização da metodologia brainstorming
+- Finalização da design sprint
 
 ---
 
 ## Assuntos Tratados
 
-- O que seria importante ter na aplicação na visão de todos os intregrantes do grupo
+- -
 
 ---
 
@@ -68,4 +68,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Inserção dos dados da ata 2 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+| `1.0` | Inserção dos dados da ata 3 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |

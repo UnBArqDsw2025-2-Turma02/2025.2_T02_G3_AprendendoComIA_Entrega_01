@@ -6,34 +6,25 @@
 
 | Data | Início | Término | Local |
 | ---- | ------ | ------- | ----- |
-| 28/08/2025 | 08:29 | 08:50 | Via Teams |
+| 28/08/2025 | 08:29 | 08:50 | Microsoft Teams |
 
 **Redator**: Felipe das Neves e Leonardo de Melo
 
-**Presentes**: 
+**Participantes**:
 
-☑ Arthur Carvalho Leite
-
-☑ Emivalto Da Costa Tavares Junior
-
-☑ Felipe das Neves Freire
-
-☑ Gabriel Lima
-
-☑ Leonardo de Melo Lima
-
-☐ Mateus Bastos
-
-☐ Pedro Fonseca Cruz
-
-☐ Samuel Afonso da Silva Santos
-
-☑ Vitor Bessa
+- ✅ Arthur Carvalho Leite
+- ✅ Emivalto Da Costa Tavares Junior
+- ✅ Felipe das Neves Freire
+- ✅ Gabriel Lima
+- ✅ Leonardo de Melo Lima
+- ❌ Mateus Bastos
+- ❌ Pedro Fonseca Cruz
+- ❌ Samuel Afonso da Silva Santos
+- ✅ Vitor Bessa
 
 | Legenda | Presente | Ausente |
 | ---- | ------ | ------- |
-|  | ☑ | ☐ |
-
+|  | ✅ | ❌ |
 ---
 
 ## Pauta
@@ -59,18 +50,15 @@
 
 ---
 
-<center>
+<div align="center">
 
 ## Gravação da Reunião
 
-<p><strong>Reunião 01<em></em></strong></p>
+**Reunião 01**
 
 <iframe width="893" height="502" src="https://www.youtube.com/embed/link" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-</center>
-
-<div align="center">
-    <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p>
+<p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p>
 </div>
 
 ---
@@ -79,4 +67,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial do artefato e inserção das informações realizadas na daily | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 28/08/2025 | | | |
+| `1.0` | Modelagem inicial e inserção das informações realizadas na daily | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 28/08/2025 | | | |

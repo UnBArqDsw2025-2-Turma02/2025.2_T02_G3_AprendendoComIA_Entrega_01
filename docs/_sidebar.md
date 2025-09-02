@@ -19,17 +19,18 @@
   - [3. Metodologia](designSprint/metodologiaSprint.md)
 
 - **Modelagem BPNM**
-  - [3. Metodologia](bpmn/metodologiaBpmn.md)
+  - [4. Metodologia](bpmn/metodologiaBpmn.md)
 
 - **Participação dos Integrantes**
-  - [4. Metodologia](participacao/integrantes.md)
+  - [5. Metodologia](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
-  - [5. Introdução](iniciativasExtras/introducao.md)
+  - [6. Introdução](iniciativasExtras/introducao.md)
 
 - **Apresentação final do Artefato**
-  - [6. Apresentação](apresentacao/apresentacao.md)
+  - [7. Apresentação](apresentacao/apresentacao.md)
 
   - **Atas**
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
+  - [Ata 03](atas/ata3.md)
