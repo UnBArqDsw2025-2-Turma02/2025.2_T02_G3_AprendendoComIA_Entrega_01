@@ -1,6 +1,6 @@
 # Léxico - AI Linguo
 
-## 1\. **Introdução**
+## Introdução
 
 Léxico, por definição na linguística, é o repertório de palavras existentes numa determinada língua. Dentro de um escopo completamente diferente da linguística clássica, a engenharia de requisitos, o léxico é um artefato intrinsecamente importante num projeto de software, para que todos os vocábulos, ou seja, expressões oriundas do contexto em que esse software esteja inserido, sejam devidamente catalogados e definidos.
 Os símbolos são definidos da seguinte forma:
@@ -10,12 +10,12 @@ Os símbolos são definidos da seguinte forma:
   - **Classificação**: estado, verbo ou objeto.
   - **Sinônimos**: símbolos/palavras diferentes que possuem significado similar ou idêntico. Opcional.
 
-## 2\. **Objetivo**
+## Objetivo
 
 O objetivo de se ter um documento de léxico, durante esse processo de modelagem de requisitos, é que a equipe de desenvolvimento e possíveis clientes e ou responsáveis pelo negócio, de maneira direta e denotativa, falem na mesma língua, ou seja, se entendam melhor, dentro do contexto do projeto.
 É interessante salientar que esse é um artefato altamente mutável, portanto ele pode e deve ser alterado diversas vezes ao longo do desenvolvimento, conforme novos vocábulos surjam.
 
-## 3\. **Metodologia**
+## Metodologia
 
 Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao léxico:
 
@@ -25,7 +25,7 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 | --- | --- | --- | --- |
 | Objeto/Estado/Verbo | Denotação | Conotação | Opcional |
 
-## 4\. **Vocábulos**
+## Vocábulos
 
 ### L1 - Tutor de Conversação IA
 
@@ -87,18 +87,20 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 | --- | --- | --- | --- |
 | Objeto | Capacidade do aplicativo de ser executado em dispositivos móveis. | Permite que o usuário acesse e utilize a aplicação em diferentes plataformas, como smartphones, garantindo a continuidade dos estudos em qualquer lugar. | Versão mobile, Aplicativo para celular. |
 
+
+
+## Bibliografia
+
+> 1.  SAYÃO, Miriam; CARVALHO, Gustavo. **Construção do léxico de aplicações**. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: [http://www-di.inf.puc-rio.br/\~julio/bnncap3.pdf/](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf/).
+
+> 2.  SERRANO, Milene. **Requisitos – Aula 10**. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod\_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf).
+
+> 3.  ZOWGHI, D.; COULIN, C. **Requirements Elicitation: A Survey of Techniques, Approaches and Tools**. Disponível em: [https://web.eecs.umich.edu/\~weimerw/2018-481/readings/requirements.pdf](https://web.eecs.umich.edu/~weimerw/2018-481/readings/requirements.pdf).
+
 ---
 
-## 5\. **Histórico de Versões**
+## Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
-| :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Construção do artefato 'Léxico' | [Leonardo de Melo](https://github.com/leozinlima) | 03/09/2025 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 |
-
-## 6\. **Referências**
-
-1.  SAYÃO, Miriam; CARVALHO, Gustavo. **Construção do léxico de aplicações**. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: [http://www-di.inf.puc-rio.br/\~julio/bnncap3.pdf/](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf/).
-
-2.  SERRANO, Milene. **Requisitos – Aula 10**. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod\_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf).
-
-3.  ZOWGHI, D.; COULIN, C. **Requirements Elicitation: A Survey of Techniques, Approaches and Tools**. Disponível em: [https://web.eecs.umich.edu/\~weimerw/2018-481/readings/requirements.pdf](https://web.eecs.umich.edu/~weimerw/2018-481/readings/requirements.pdf).
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
+| `1.0` | Construção do artefato 'Léxico'| [Leonardo de Melo](https://github.com/leozinlima) | 03/09/2025 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025  | Padronização na bibliográfia: correção no título do tópico 5, foi utilizado o título como "referência", mas como não teve a devida referênciação no texto, modifiquei para bibliografia. A ordem também estava fora de padronização, sendo o histórico de versões o ultimo tópico de cada documento.  |
