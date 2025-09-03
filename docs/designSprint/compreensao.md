@@ -4,6 +4,15 @@ A fase de **Compreensão** é o ponto de partida da Design Sprint. O objetivo pr
 
 ---
 
+## Sumário
+
+- [Técnica Utilizada](#Técnica-Utilizada)
+- [Resultados e Insights](#Resultados-e-Insights)
+- [Definição do Problema](#Definição-do-Problema)
+- [Gravação da Reunião](#Gravação-da-Reunião)
+- [Bibliografia](#Bibliografia)
+- [Histórico de Versões](#Histórico-de-Versões)
+
 ## Técnica utilizada: 
 
 Para explorar o problema e gerar um volume de ideias iniciais, utilizamos a técnica de **brainstorming** , proposta por Osborn (1953). O foco foi em quantidade sobre qualidade, incentivando a colaboração e a criatividade sem julgamentos. A sessão foi estruturada para que todos os membros pudessem contribuir com suas perspectivas sobre os desafios e oportunidades do projeto.
