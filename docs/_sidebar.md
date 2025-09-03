@@ -16,7 +16,8 @@
     - [2.5. Validação](designSprint/validacao.md)
 
 - **Artefatos Generalistas**
-  - [3. Metodologia](artefatosGeneralistas/lexicos.md)
+  - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
+    - - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)

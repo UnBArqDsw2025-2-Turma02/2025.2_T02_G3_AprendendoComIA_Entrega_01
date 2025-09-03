@@ -93,7 +93,7 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | 
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: |
-| `1.0` | Modelagem inicial | [Leonardo de Melo](https://github.com/leozinlima) | 03/09/2025 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 |
+| `1.0` | Construção do artefato 'Léxico' | [Leonardo de Melo](https://github.com/leozinlima) | 03/09/2025 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 |
 
 ## 6\. **Referências**
 

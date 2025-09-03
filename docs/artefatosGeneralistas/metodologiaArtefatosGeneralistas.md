@@ -1,0 +1,28 @@
+# Metodologia Artefatos Generalistas
+
+---
+
+## Técnica utilizada
+
+Infos
+
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.0</span>
+</center>
+
+
+
+---
+
+## Bibliografia
+
+> <p><small>CONTENT STUDIO. O que é um dicionário de dados? Disponível em: <a href="https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html">https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html</a>. Acesso em: 30 abr. 2025.</small></p>
+
+---
+
+## Histórico de Versões
+
+| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
+| `1.0` | Modelagem inicial | [Leonardo de Melo](https://github.com/leozinlima) | 03/09/2025 | | | |
