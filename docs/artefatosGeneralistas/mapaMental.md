@@ -50,7 +50,7 @@ Para a construção deste mapa mental, foi utilizada a seguinte metodologia:
 
 O primeiro mapa conceitual tem como tema: **Possíveis problemas na organização de aprendizado de linguas**. Nele foi mapeado problemas comuns que podem ocorrer durante o planejamento.
 
-![Mapa mental 1](/assets/artefatos/MapaMental.jpg)
+![Mapa mental 1](/assets/artefatos/MapaMental.png)
 <center> Autor(a): <a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></center>
 
 ## Bibliografia
