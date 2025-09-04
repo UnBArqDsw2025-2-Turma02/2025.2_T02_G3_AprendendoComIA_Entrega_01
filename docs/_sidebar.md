@@ -19,7 +19,7 @@
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
     - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
     - [3.2. Brainstorming](artefatosGeneralistas/lexicos.md)
-    - [3.3. 5w+2h](artefatosGeneralistas/lexicos.md)
+    - [3.3. 5w2h](artefatosGeneralistas/lexicos.md)
     - [3.4. Diagrama de Ishikawa](artefatosGeneralistas/lexicos.md)
     - [3.5. Glossário](artefatosGeneralistas/lexicos.md)
     - [3.6. Estimativas](artefatosGeneralistas/lexicos.md)
@@ -29,7 +29,7 @@
       - [4.1. BPMN do Projeto](artefatosGeneralistas/lexicos.md)
 
 - **Participação dos Integrantes**
-  - [5. Metodologia](participacaoIntegrantes/integrantes.md)
+  - [5. Participação](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
