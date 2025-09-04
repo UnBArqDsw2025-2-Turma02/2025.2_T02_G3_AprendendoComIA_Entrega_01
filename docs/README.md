@@ -53,9 +53,9 @@
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/-">
-          <img style="border-radius: 20%; border: 3px solid #2dec26;" src="https://avatars.githubusercontent.com/u/3912810?v=4" width="160px" alt="Imagem de perfil"/>
-          <br /><sub><b>Samuel Afonso Santos</b></sub>
+        <a href="https://github.com/SamuelAfonso">
+          <img style="border-radius: 20%; border: 3px solid #2dec26;" src="https://avatars.githubusercontent.com/u/106821260?v=4" width="160px" alt="Imagem de perfil"/>
+          <br /><sub><b>Samuel Afonso da Silva Santos</b></sub>
         </a><br />
       </td>
       <td align="center">
