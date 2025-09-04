@@ -9,24 +9,33 @@
 
 - **Design Sprint**
   - [2. Metodologia](designSprint/metodologiaSprint.md)
-    - [2.1. Compreensão](designSprint/compreensao.md)
-    - [2.2. Diversão](designSprint/diversao.md)
-    - [2.3. Decisão](designSprint/decisao.md)
-    - [2.4. Prototipação](designSprint/prototipacao.md)
-    - [2.5. Validação](designSprint/validacao.md)
+    - [2.1. Compreensão (Unpack) ](designSprint/compreensao.md)
+    - [2.2. Diversão (Sketch) ](designSprint/diversao.md)
+    - [2.3. Decisão (Dicision) ](designSprint/decisao.md)
+    - [2.4. Prototipação (Prototype)) ](designSprint/prototipacao.md)
+    - [2.5. Validação (Validation) ](designSprint/validacao.md)
 
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
     - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
+    - [3.2. Brainstorming](artefatosGeneralistas/lexicos.md)
+    - [3.3. 5w2h](artefatosGeneralistas/lexicos.md)
+    - [3.4. Diagrama de Ishikawa](artefatosGeneralistas/lexicos.md)
+    - [3.5. Glossário](artefatosGeneralistas/lexicos.md)
+    - [3.6. Estimativas](artefatosGeneralistas/lexicos.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
+      - [4.1. BPMN do Projeto](artefatosGeneralistas/lexicos.md)
 
 - **Participação dos Integrantes**
-  - [5. Metodologia](participacaoIntegrantes/integrantes.md)
+  - [5. Participação](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
+      - [6.1. Benchmarking](artefatosGeneralistas/lexicos.md)
+      - [6.2. Requisitos Elicitados](artefatosGeneralistas/lexicos.md)
+      - [6.3. Análise de Documentos](artefatosGeneralistas/lexicos.md)
 
 - **Apresentação final do Artefato**
   - [7. Apresentação](apresentacao/apresentacao.md)
@@ -35,3 +44,4 @@
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
   - [Ata 03](atas/ata3.md)
+  - [Ata 04](atas/ata4.md)
