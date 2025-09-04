@@ -15,7 +15,7 @@
 | <img src="https://avatars.githubusercontent.com/u/105813929?v=4" height="70"> | 22/2037700 | Leonardo de Melo Lima |
 | <img src="https://avatars.githubusercontent.com/u/164573233?v=4" height="70"> | 21/1062240 | Mateus Bastos |
 | <img src="https://avatars.githubusercontent.com/u/52254091?v=4" height="70"> | 21/2005444 | Pedro Fonseca Cruz |
-| <img src="https://avatars.githubusercontent.com/u/3912810?v=4" height="70"> | 21/1062473 | Samuel Afonso da Silva Santos |
+| <img src="https://avatars.githubusercontent.com/u/106821260?v=4" height="70"> | 21/1062473 | Samuel Afonso da Silva Santos |
 | <img src="https://avatars.githubusercontent.com/u/118318004?v=4" height="70"> | 18/0132466 | Vitor Bessa |
 
 ## Sobre 
