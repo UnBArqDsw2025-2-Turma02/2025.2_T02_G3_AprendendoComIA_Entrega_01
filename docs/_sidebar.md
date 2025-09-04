@@ -9,28 +9,36 @@
 
 - **Design Sprint**
   - [2. Metodologia](designSprint/metodologiaSprint.md)
-    - [2.1. Compreensão](designSprint/compreensao.md)
-    - [2.2. Diversão](designSprint/diversao.md)
-    - [2.3. Decisão](designSprint/decisao.md)
-    - [2.4. Prototipação](designSprint/prototipacao.md)
-    - [2.5. Validação](designSprint/validacao.md)
+    - [2.1. Compreensão (Unpack) ](designSprint/compreensao.md)
+    - [2.2. Diversão (Sketch) ](designSprint/diversao.md)
+    - [2.3. Decisão (Dicision) ](designSprint/decisao.md)
+    - [2.4. Prototipação (Prototype)) ](designSprint/prototipacao.md)
+    - [2.5. Validação (Validation) ](designSprint/validacao.md)
 
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
-    - [3.1. 5W2H](artefatosGeneralistas/5w2h.md)
-    - [3.2. Causa e Efeito](artefatosGeneralistas/causaEfeito.md)
-    - [3.3. Léxico](artefatosGeneralistas/lexicos.md)
-    - [3.4. Mapa Mental](artefatosGeneralistas/mapaMental.md)
-    - [3.5. Rich Picture](artefatosGeneralistas/richPicture.md)
+    - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
+    - [3.2. Brainstorming](artefatosGeneralistas/brainstorming.md)
+    - [3.3. 5W2H](artefatosGeneralistas/5w2h.md)
+    - [3.4. Causa e Efeito](artefatosGeneralistas/causaEfeito.md)
+    - [3.5. Mapa Mental](artefatosGeneralistas/mapaMental.md)
+    - [3.6. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
+    - [3.7. Glossário](artefatosGeneralistas/glossario.md)
+    - [3.8. Estimativas](artefatosGeneralistas/estimativas.md)
+    - [3.9. Rich Picture](artefatosGeneralistas/richPicture.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
+      - [4.1. BPMN do Projeto](bpmn/modelagemBpmn.md)
 
 - **Participação dos Integrantes**
-  - [5. Metodologia](participacaoIntegrantes/integrantes.md)
+  - [5. Participação](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
+      - [6.1. Benchmarking](iniciativasExtras/benchmarking.md)
+      - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
+      - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
 
 - **Apresentação final do Artefato**
   - [7. Apresentação](apresentacao/apresentacao.md)
@@ -39,3 +47,4 @@
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
   - [Ata 03](atas/ata3.md)
+  - [Ata 04](atas/ata4.md)

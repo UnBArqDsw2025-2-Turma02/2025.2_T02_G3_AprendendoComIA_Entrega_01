@@ -2,7 +2,10 @@
 
 ---
 
-## Técnica utilizada
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+---
+
+## Técnica Utilizada
 
 Infos
 
@@ -11,6 +14,7 @@ Infos
   <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.0</span>
 </center>
 
+## Objetivos
 
 
 ---

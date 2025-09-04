@@ -11,55 +11,55 @@
   <table>
     <tr>
       <td align="center">
-        <a href="https://github.com/Diaxiz">
+        <a href="https://github.com/arthurlleite">
           <img style="border-radius: 20%; border: 3px solid #ffcf00;" src="https://avatars.githubusercontent.com/u/170873899?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Arthur Carvalho Leite</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/F1reFinger">
+        <a href="https://github.com/EmivaltoJrr">
           <img style="border-radius: 20%; border: 3px solid #ff7a00;" src="https://avatars.githubusercontent.com/u/138714054?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Emivalto Tavares Junior</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/IsraelThalles">
+        <a href="https://github.com/FelipeFreire-gf">
           <img style="border-radius: 20%; border: 3px solid #00cf00;" src="https://avatars.githubusercontent.com/u/62055315?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Felipe das Neves Freire</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/MatheusHenrickSantos">
+        <a href="https://github.com/gabriel-lima258">
           <img style="border-radius: 20%; border: 3px solid #526fff;" src="https://avatars.githubusercontent.com/u/116119327?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Gabriel Lima</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Pabloserrapxx">
+        <a href="https://github.com/leozinlima">
           <img style="border-radius: 20%; border: 3px solid #f68deaff;" src="https://avatars.githubusercontent.com/u/105813929?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Leonardo de Melo Lima</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Pabloserrapxx">
+        <a href="https://github.com/MateuSansete">
           <img style="border-radius: 20%; border: 3px solid #1b2a2cff;" src="https://avatars.githubusercontent.com/u/164573233?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Mateus Bastos</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Pabloserrapxx">
+        <a href="https://github.com/pfc15">
           <img style="border-radius: 20%; border: 3px solid #13ebf8;" src="https://avatars.githubusercontent.com/u/52254091?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Pedro Fonseca Cruz</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Pabloserrapxx">
+        <a href="https://github.com/-">
           <img style="border-radius: 20%; border: 3px solid #2dec26;" src="https://avatars.githubusercontent.com/u/3912810?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Samuel Afonso Santos</b></sub>
         </a><br />
       </td>
       <td align="center">
-        <a href="https://github.com/Pabloserrapxx">
+        <a href="https://github.com/bessazs">
           <img style="border-radius: 20%; border: 3px solid #8dec66;" src="https://avatars.githubusercontent.com/u/118318004?v=4" width="160px" alt="Imagem de perfil"/>
           <br /><sub><b>Vitor Bessa</b></sub>
         </a><br />
