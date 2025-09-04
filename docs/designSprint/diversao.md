@@ -80,6 +80,28 @@ Desenvolvi um rich picture da minha perspectiva do projeto e um mapa mental:
 <div align="center">
     <p>Autor: <a href="https://github.com/FelipeFreire-gf">Gabriel Lima</a>.</p>
 </div>
+
+
+### Ideação: Emivalto Junior
+
+Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <br></br>
+</center>
+
+
+<center>
+  <img src="../../docs/assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/EmivaltoJrr">Emivalto Junior</a>.</p>
+</div>
+
+
+
 ---
 
 ## Bibliografia
@@ -95,3 +117,4 @@ Desenvolvi um rich picture da minha perspectiva do projeto e um mapa mental:
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo sobre a técnica utilizada e os objetivos da fase de "Diversão". | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
 | `1.2` | Inserção dos trabalhos do Felipe e do Gabriel. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
+| `1.3` | Inserção dorich picture do Emivalto Junior. | [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | | | |
