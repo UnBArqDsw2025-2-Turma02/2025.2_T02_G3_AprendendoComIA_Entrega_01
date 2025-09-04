@@ -19,14 +19,17 @@
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
     - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
     - [3.2. Brainstorming](artefatosGeneralistas/brainstorming.md)
-    - [3.3. 5w2h](artefatosGeneralistas/5w2h.md)
-    - [3.4. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
-    - [3.5. Glossário](artefatosGeneralistas/glossario.md)
-    - [3.6. Estimativas](artefatosGeneralistas/estimativas.md)
+    - [3.3. 5W2H](artefatosGeneralistas/5w2h.md)
+    - [3.4. Causa e Efeito](artefatosGeneralistas/causaEfeito.md)
+    - [3.5. Mapa Mental](artefatosGeneralistas/mapaMental.md)
+    - [3.6. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
+    - [3.7. Glossário](artefatosGeneralistas/glossario.md)
+    - [3.8. Estimativas](artefatosGeneralistas/estimativas.md)
+    - [3.9. Rich Picture](artefatosGeneralistas/richPicture.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
-      - [4.1. BPMN do Projeto](artefatosGeneralistas/lexicos.md)
+      - [4.1. BPMN do Projeto](bpmn/modelagemBpmn.md)
 
 - **Participação dos Integrantes**
   - [5. Participação](participacaoIntegrantes/integrantes.md)
