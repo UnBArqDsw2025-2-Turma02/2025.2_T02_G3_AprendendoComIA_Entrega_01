@@ -13,17 +13,20 @@
 
 ## Técnica Utilizada
 
-Infos
+As histórias de usuário foram feitas a partir do trabalho e da discussão feita em equipe. Os principais documentos base foram o brainstrom e os requisitos elicitados. O método utilizado foi o da desing sprint onde cada história é divida em tres partes:
 
+Eu, como PERSONA, quero fazer ação, para certo benefício da persona.
 
 <center>
   <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.0</span>
 </center>
 
 ## Objetivos
+O objetivo das histórias de Usuário é cria uma forma rápida e eficiente de
+documentar e mapear o que há a ser feito. É bastante utilizada na indústria
+para ser uma forma onde pessoas não técnicas e técnicas conseguem comunicar e participar no processo de validação e evitar retrabalho no futuro.
 
-
-## Visão rápida
+## Tabela História de Usuário
 
 <table>
 <tr>
