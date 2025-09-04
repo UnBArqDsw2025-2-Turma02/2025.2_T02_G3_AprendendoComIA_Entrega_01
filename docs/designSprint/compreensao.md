@@ -30,7 +30,7 @@ O **brainstorming** resultou em um quadro com muitas ideias, que foi consolidado
 <div align="center">
 <iframe width="50%" height="450" src="https://miro.com/app/board/uXjVJNopTCE=" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
- <p>Autores: <a href="#">Arthur, Emivalto, Felipe, Gabriel, Leonardo, Pedro, Samuel e Vitor</a>.</p>
+ <p>Autores: <a href="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01">Arthur, Emivalto, Felipe, Gabriel, Leonardo, Pedro, Samuel e Vitor</a>.</p>
 
 </div>
 

@@ -39,6 +39,9 @@
       - [6.1. Histórias de Usuários](iniciativasExtras/historias.md)
       - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
       - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
+      - [6.4. Moscow](iniciativasExtras/moscow.md)
+      - [6.5. Three Level Scale](iniciativasExtras/threeLevel.md)
+      - [6.6. Observação](iniciativasExtras/treeLevel.md)
 
 - **Apresentação final do Artefato**
   - [7. Apresentação](apresentacao/apresentacao.md)
