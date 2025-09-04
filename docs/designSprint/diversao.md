@@ -46,4 +46,4 @@ Os principais objetivos desta fase de "Diversão" foram:
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
-| `1.1` | Desenvolvimento do conteúdo sobre a técnica utilizada e os objetivos da fase de "Diversão". | Felipe das Neves | 04/09/2025 | | | |
+| `1.1` | Desenvolvimento do conteúdo sobre a técnica utilizada e os objetivos da fase de "Diversão". | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
