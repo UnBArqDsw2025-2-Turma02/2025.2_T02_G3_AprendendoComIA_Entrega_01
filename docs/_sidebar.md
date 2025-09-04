@@ -36,7 +36,7 @@
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
-      - [6.1. Benchmarking](iniciativasExtras/benchmarking.md)
+      - [6.1. Histórias de Usuários](iniciativasExtras/historias.md)
       - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
       - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
 
