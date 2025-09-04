@@ -2,13 +2,7 @@
 
 ---
 
-## Sumário
-
-- [Técnica Utilizada](#Técnica-Utilizada)
-- [Objetivos](#Objetivos)
-- [Bibliografia](#bibliografia)
-- [Histórico de Versões](#histórico-de-versões)
-
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 ---
 
 ## Técnica Utilizada
