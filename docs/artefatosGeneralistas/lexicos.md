@@ -1,4 +1,16 @@
-# Léxico - AI Linguo
+# Léxico
+
+---
+
+## Sumário
+
+- [Introdução](#Introdução)
+- [Objetivo](#Objetivo)
+- [Metodologia](#Metodologia)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versões](#histórico-de-versões)
+
+---
 
 ## Introdução
 
@@ -9,11 +21,15 @@ Os símbolos são definidos da seguinte forma:
   - **Impacto**: descreve o efeito/uso/ocorrência do símbolo na aplicação ou no efeito de algo na aplicação sobre ele (conotação).
   - **Classificação**: estado, verbo ou objeto.
   - **Sinônimos**: símbolos/palavras diferentes que possuem significado similar ou idêntico. Opcional.
+  
+---
 
 ## Objetivo
 
 O objetivo de se ter um documento de léxico, durante esse processo de modelagem de requisitos, é que a equipe de desenvolvimento e possíveis clientes e ou responsáveis pelo negócio, de maneira direta e denotativa, falem na mesma língua, ou seja, se entendam melhor, dentro do contexto do projeto.
 É interessante salientar que esse é um artefato altamente mutável, portanto ele pode e deve ser alterado diversas vezes ao longo do desenvolvimento, conforme novos vocábulos surjam.
+
+---
 
 ## Metodologia
 
@@ -24,6 +40,8 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 | Classificação | Noção | Impacto | Sinônimos |
 | --- | --- | --- | --- |
 | Objeto/Estado/Verbo | Denotação | Conotação | Opcional |
+
+---
 
 ## Vocábulos
 
@@ -87,7 +105,7 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 | --- | --- | --- | --- |
 | Objeto | Capacidade do aplicativo de ser executado em dispositivos móveis. | Permite que o usuário acesse e utilize a aplicação em diferentes plataformas, como smartphones, garantindo a continuidade dos estudos em qualquer lugar. | Versão mobile, Aplicativo para celular. |
 
-
+---
 
 ## Bibliografia
 

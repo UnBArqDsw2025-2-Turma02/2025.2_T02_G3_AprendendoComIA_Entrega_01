@@ -1,4 +1,17 @@
-# Rich Picture - AI Linguo
+# Rich Picture
+
+---
+
+## Sumário
+
+- [Introdução](#Introdução)
+- [Objetivos](#Objetivos)
+- [Metodologia](#Metodologia)
+- [Artefatos](#Artefatos)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versões](#histórico-de-versões)
+
+---
 
 ## Introdução
 
@@ -6,7 +19,9 @@ O Rich Picture é uma técnica visual utilizada na engenharia de requisitos para
 
 No contexto do projeto AI Linguo, o Rich Picture serve como um instrumento fundamental para mapear visualmente todo o ecossistema de aprendizado de inglês com inteligência artificial, incluindo os usuários, funcionalidades, processos de negócio e interações entre os diversos componentes do sistema. Esta representação visual auxilia na identificação de requisitos, na comunicação com stakeholders e na validação da compreensão do domínio do problema.
 
-## Objetivo 
+---
+
+## Objetivos 
 
 O objetivo principal deste Rich Picture é:
 
@@ -17,6 +32,8 @@ O objetivo principal deste Rich Picture é:
 - **Auxiliar na elicitação de requisitos** ao proporcionar uma visão holística do domínio do problema
 - **Documentar a arquitetura conceitual** do sistema de forma acessível e compreensível
 - **Identificar pontos de melhoria** e oportunidades de otimização no sistema
+
+---
 
 ## Metodologia 
 
@@ -83,6 +100,8 @@ Para a construção deste Rich Picture, foi utilizada a seguinte metodologia:
 ![Rich Picture versão 1](/assets/artefatos/richpicture1.png)
 
 <p align="center"><b>Autor(a):</b><a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></p>
+
+---
 
 ## Bibliografia
 

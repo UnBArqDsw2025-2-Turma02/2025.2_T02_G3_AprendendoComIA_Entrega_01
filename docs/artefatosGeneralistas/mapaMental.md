@@ -1,4 +1,17 @@
-# Mapa Mental - AI Linguo
+# Mapa Mental
+
+---
+
+## Sumário
+
+- [Introdução](#Introdução)
+- [Objetivos](#Objetivos)
+- [Metodologia](#Metodologia)
+- [Artefatos](#Artefatos)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versões](#histórico-de-versões)
+
+---
 
 ## Introdução
 
@@ -6,7 +19,9 @@ O Mapa Mental é uma ferramenta visual que permite organizar e estruturar inform
 
 Este mapa mental representa uma visão holística do projeto, permitindo que a equipe de desenvolvimento, stakeholders e usuários finais tenham uma compreensão clara e organizada de todos os elementos que compõem o sistema AI Linguo, facilitando o planejamento, desenvolvimento e comunicação entre as partes envolvidas.
 
-## Objetivo
+---
+
+## Objetivos
 
 O objetivo principal deste mapa mental é:
 
@@ -16,6 +31,8 @@ O objetivo principal deste mapa mental é:
 - **Auxiliar no planejamento** do desenvolvimento, fornecendo uma visão geral estruturada do projeto
 - **Documentar a arquitetura conceitual** do sistema, servindo como referência durante todo o ciclo de desenvolvimento
 - **Promover a compreensão** dos objetivos do projeto e como cada componente contribui para o resultado final
+
+---
 
 ## Metodologia
 
@@ -46,12 +63,16 @@ Para a construção deste mapa mental, foi utilizada a seguinte metodologia:
 - Padrões visuais consistentes para facilitar a compreensão
 - Notação clara e legível para todos os níveis de usuários
 
+---
+
 ## Artefatos
 
 O primeiro mapa conceitual tem como tema: **Possíveis problemas na organização de aprendizado de linguas**. Nele foi mapeado problemas comuns que podem ocorrer durante o planejamento.
 
 ![Mapa mental 1](/assets/artefatos/MapaMental.png)
 <center> Autor(a): <a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></center>
+
+---
 
 ## Bibliografia
 
