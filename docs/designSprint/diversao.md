@@ -38,13 +38,13 @@ Os principais objetivos desta fase de "Diversão" foram:
 Decidi fazer um rich picture da minha perspeciva do projeto:
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture Felipe | Versão 1 </span>
   <br></br>
 </center>
 
 
 <center>
-  <img src="../../assets/richPictureFelipe.jpeg" alt="Rich Picture da ideação de Felipe das Neves" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/richPictureFelipe.jpeg" alt="Rich Picture da ideação de Felipe das Neves" width="600px">
 </center>
 
 <div align="center">
@@ -56,12 +56,12 @@ Decidi fazer um rich picture da minha perspeciva do projeto:
 Desenvolvi um rich picture da minha perspectiva do projeto e um mapa mental:
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture Gabriel | Versão 1 </span>
   <br></br>
 </center>
 
 <center>
-  <img src="../../assets/richpicture1.png" alt="Rich Picture da ideação de Gabriel" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/richpicture1.png" alt="Rich Picture da ideação de Gabriel" width="600px">
 </center>
 
 <div align="center">
@@ -69,12 +69,12 @@ Desenvolvi um rich picture da minha perspectiva do projeto e um mapa mental:
 </div>
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Mapa Mental | Versão 1 </span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Mapa Mental Gabriel | Versão 1 </span>
   <br></br>
 </center>
 
 <center>
-  <img src="../../assets/MapaMental.png" alt="Rich Picture da ideação de Gabriel" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/MapaMental.png" alt="Rich Picture da ideação de Gabriel" width="600px">
 </center>
 
 <div align="center">

@@ -69,7 +69,7 @@ Para a construção deste mapa mental, foi utilizada a seguinte metodologia:
 
 O primeiro mapa conceitual tem como tema: **Possíveis problemas na organização de aprendizado de linguas**. Nele foi mapeado problemas comuns que podem ocorrer durante o planejamento.
 
-![Mapa mental 1](/assets/artefatos/MapaMental.png)
+![Mapa mental 1](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/MapaMental.png)
 <center> Autor(a): <a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></center>
 
 O mapa conceitual de tema AI Linguo detalha as funcionalidades e características propostas para a aplicação.
