@@ -42,6 +42,7 @@
       - [6.4. Moscow](iniciativasExtras/moscow.md)
       - [6.5. Three Level Scale](iniciativasExtras/threeLevel.md)
       - [6.6. Observação](iniciativasExtras/treeLevel.md)
+      - [6.7. Organização da Equipe](participacaoIntegrantes/scrumAdaptado.md)
 
 - **Apresentação final do Artefato**
   - [7. Apresentação](apresentacao/apresentacao.md)
