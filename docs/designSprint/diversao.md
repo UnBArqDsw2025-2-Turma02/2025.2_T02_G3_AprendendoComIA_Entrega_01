@@ -8,6 +8,8 @@ A fase de **Diversão** (ou Ideação) da Design Sprint é o momento de explorar
 
 - [Técnica Utilizada](#Técnica-Utilizada)
 - [Objetivos](#Objetivos)
+- [Ideação: Felipe das Neves](#ideação-felipe-das-neves)
+- [Ideação: Gabriel Lima](#ideação-gabriel-lima)
 - [Bibliografia](#bibliografia)
 - [Histórico de Versões](#histórico-de-versões)
 
@@ -29,10 +31,55 @@ Os principais objetivos desta fase de "Diversão" foram:
 *   **Aumentar a Retenção de Usuários:** Criar funcionalidades que motivem os usuários a retornar e continuar utilizando o aplicativo regularmente, transformando o aprendizado em uma atividade prazerosa.
 *   **Inovação na Experiência de Aprendizagem:** Pensar "fora da caixa" para propor soluções únicas que diferenciem o produto no mercado.
 
+---
+
+### Ideação: Felipe das Neves
+
+Decidi fazer um rich picture da minha perspeciva do projeto:
+
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.1</span>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <br></br>
 </center>
 
+
+<center>
+  <img src="../../assets/richPictureFelipe.jpeg" alt="Rich Picture da ideação de Felipe das Neves" width="600px">
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p>
+</div>
+
+### Ideação: Gabriel Lima
+
+Desenvolvi um rich picture da minha perspectiva do projeto e um mapa mental:
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <br></br>
+</center>
+
+<center>
+  <img src="../../assets/richpicture1.png" alt="Rich Picture da ideação de Gabriel" width="600px">
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/FelipeFreire-gf">Gabriel Lima</a>.</p>
+</div>
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Mapa Mental | Versão 1 </span>
+  <br></br>
+</center>
+
+<center>
+  <img src="../../assets/MapaMental.png" alt="Rich Picture da ideação de Gabriel" width="600px">
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/FelipeFreire-gf">Gabriel Lima</a>.</p>
+</div>
 ---
 
 ## Bibliografia
@@ -47,3 +94,4 @@ Os principais objetivos desta fase de "Diversão" foram:
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo sobre a técnica utilizada e os objetivos da fase de "Diversão". | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
+| `1.2` | Inserção dos trabalhos do Felipe e do Gabriel. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
