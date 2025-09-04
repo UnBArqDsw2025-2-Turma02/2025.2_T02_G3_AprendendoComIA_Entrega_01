@@ -20,12 +20,11 @@
     - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
     - [3.2. Brainstorming](artefatosGeneralistas/brainstorming.md)
     - [3.3. 5W2H](artefatosGeneralistas/5w2h.md)
-    - [3.4. Causa e Efeito](artefatosGeneralistas/causaEfeito.md)
-    - [3.5. Mapa Mental](artefatosGeneralistas/mapaMental.md)
-    - [3.6. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
-    - [3.7. Glossário](artefatosGeneralistas/glossario.md)
-    - [3.8. Estimativas](artefatosGeneralistas/estimativas.md)
-    - [3.9. Rich Picture](artefatosGeneralistas/richPicture.md)
+    - [3.4. Mapa Mental](artefatosGeneralistas/mapaMental.md)
+    - [3.5. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
+    - [3.6. Glossário](artefatosGeneralistas/glossario.md)
+    - [3.7. Estimativas](artefatosGeneralistas/estimativas.md)
+    - [3.8. Rich Picture](artefatosGeneralistas/richPicture.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
