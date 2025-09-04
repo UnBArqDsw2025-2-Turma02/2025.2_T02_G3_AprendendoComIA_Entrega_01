@@ -33,9 +33,9 @@
 
 - **Iniciativas Extras**
   - [6. Introdução](iniciativasExtras/introducao.md)
-      - [6.1. Benchmarking](artefatosGeneralistas/benchmarking.md)
-      - [6.2. Requisitos Elicitados](artefatosGeneralistas/requisitosElicitados.md)
-      - [6.3. Análise de Documentos](artefatosGeneralistas/analiseDeDocumentos.md)
+      - [6.1. Histórias de Usuários](iniciativasExtras/historias.md)
+      - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
+      - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
 
 - **Apresentação final do Artefato**
   - [7. Apresentação](apresentacao/apresentacao.md)
