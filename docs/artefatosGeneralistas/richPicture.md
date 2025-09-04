@@ -97,7 +97,7 @@ Para a construção deste Rich Picture, foi utilizada a seguinte metodologia:
 
 <p align="center"><b>Figura 1.</b> Primeira versão do Rich Picture.</p>
 
-![Rich Picture versão 1](/assets/artefatos/richpicture1.png)
+![Rich Picture versão 1](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/richpicture1.png)
 
 <p align="center"><b>Autor(a):</b><a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></p>
 
