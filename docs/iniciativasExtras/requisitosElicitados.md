@@ -92,5 +92,5 @@ Os requisitos não funcionais descrevem *como* o sistema deve operar, definindo 
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Criação do documento e elicitação inicial dos requisitos. | Felipe das Neves | 03/09/2025 | | | |
-| `1.1` | Estruturação dos requisitos em tabelas, priorização e refinamento das descrições. | Felipe das Neves | 03/09/2025 | | | |
+| `1.0` | Criação do documento e elicitação inicial dos requisitos. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | | | |
+| `1.1` | Estruturação dos requisitos em tabelas, priorização e refinamento das descrições. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | | | |
