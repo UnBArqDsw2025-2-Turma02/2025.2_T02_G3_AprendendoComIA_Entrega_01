@@ -17,7 +17,11 @@
 
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
-    - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
+    - [3.1. 5W2H](artefatosGeneralistas/5w2h.md)
+    - [3.2. Causa e Efeito](artefatosGeneralistas/causaEfeito.md)
+    - [3.3. Léxico](artefatosGeneralistas/lexicos.md)
+    - [3.4. Mapa Mental](artefatosGeneralistas/mapaMental.md)
+    - [3.5. Rich Picture](artefatosGeneralistas/richPicture.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
