@@ -72,6 +72,12 @@ O primeiro mapa conceitual tem como tema: **Possíveis problemas na organizaçã
 ![Mapa mental 1](/assets/artefatos/MapaMental.png)
 <center> Autor(a): <a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></center>
 
+O mapa conceitual de tema AI Linguo detalha as funcionalidades e características propostas para a aplicação.
+
+![Mapa mental 2](/assets/artefatos/mindMapLeoLima.png)
+<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Leonardo de Melo</a></center>
+
+
 ---
 
 ## Bibliografia
@@ -86,3 +92,4 @@ O primeiro mapa conceitual tem como tema: **Possíveis problemas na organizaçã
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Construção do artefato 'Mapa Mental'| [Gabriel Lima](https://github.com/gabriel-lima258) | 03/09/2025 | [Leonardo de Melo](https://github.com/leozinlima)  | 03/09/2025  |   |
+| `1.1` | Adição do segundo Mind Map| [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | [Gabriel Lima](https://github.com/gabriel-lima258)  | 04/09/2025  |   |
