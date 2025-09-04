@@ -18,11 +18,11 @@
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
     - [3.1. Léxico](artefatosGeneralistas/lexicos.md)
-    - [3.2. Brainstorming](artefatosGeneralistas/lexicos.md)
-    - [3.3. 5w2h](artefatosGeneralistas/lexicos.md)
-    - [3.4. Diagrama de Ishikawa](artefatosGeneralistas/lexicos.md)
-    - [3.5. Glossário](artefatosGeneralistas/lexicos.md)
-    - [3.6. Estimativas](artefatosGeneralistas/lexicos.md)
+    - [3.2. Brainstorming](artefatosGeneralistas/brainstorming.md)
+    - [3.3. 5w2h](artefatosGeneralistas/5w2h.md)
+    - [3.4. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
+    - [3.5. Glossário](artefatosGeneralistas/glossario.md)
+    - [3.6. Estimativas](artefatosGeneralistas/estimativas.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
