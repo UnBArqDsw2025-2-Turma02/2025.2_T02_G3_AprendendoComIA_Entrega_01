@@ -54,7 +54,7 @@
 
 <p><strong>Reunião 02<em></em></strong></p>
 
-<iframe width="893" height="502" src="https://www.youtube.com/embed/link" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="893" height="502" src="https://youtu.be/xNrcE_eeX_w" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 </center>
 
@@ -68,4 +68,5 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Inserção dos dados da ata 2 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+| `1.0` | Inserção dos dados da ata 2 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | [Arthur Carvalho](https://github.com/arthurlleite)  | 04/09/2025| arrumei alguns erros nas estruturas |
+| `1.1` | Video postado, editado e estruturado conforme a última reunião | [Arthur Carvalho](https://github.com/arthurlleite) | 01/09/2025 |  | |  |
