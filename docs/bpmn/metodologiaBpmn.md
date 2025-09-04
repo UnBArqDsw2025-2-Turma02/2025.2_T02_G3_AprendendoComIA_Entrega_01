@@ -49,23 +49,7 @@ O Miro é uma plataforma de lousa digital online e versátil que permite o traba
 
 ---
 
-## Processos Modelados
 
-A seguir, são apresentados os processos de negócio modelados com BPMN para este projeto.
-
-### Processo 1: [Nome do Processo]
-
-**Descrição:** [Breve descrição do objetivo e escopo do processo.]
-
-<center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> BPMN | Versão 1.0</span>
-  <br>
-  <!-- Inserir a imagem do BPMN aqui -->
-  <p><b>Figura 1:</b> Diagrama do Processo [Nome do Processo].</p>
-  <p><small>Fonte: Elaborado pelos autores (2025).</small></p>
-</center>
-
----
 
 ## Bibliografia
 
