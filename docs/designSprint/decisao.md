@@ -62,4 +62,4 @@ Os principais objetivos desta fase de "Diversão" foram:
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 |[Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | Corações e acerto da priorização |
- |
+ `1.4` | Participação na priorização do MoSCoW | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | | | |

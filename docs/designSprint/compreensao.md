@@ -70,3 +70,4 @@ Após a sessão de **brainstorming** e as discussões, a equipe alinhou o foco d
 | `1.1` | Desenvolvimento do tópico da técnica utilizada, resultados/insights e definição do problema | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.2` | Referenciação bibliográfica | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.3` | Participação no BrainStorming | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |
+| `1.4` | Participação no BrainStorming | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | | | |

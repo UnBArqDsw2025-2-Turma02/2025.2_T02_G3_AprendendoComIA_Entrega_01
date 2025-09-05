@@ -92,4 +92,4 @@ Este artefato tem como objetivo apresentar o plano estimado de risco, custo e te
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | Correção da aba |
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | Correção da aba e referência bibliográfica|
