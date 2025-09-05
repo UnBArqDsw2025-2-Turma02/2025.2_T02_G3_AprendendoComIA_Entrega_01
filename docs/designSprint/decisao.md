@@ -31,7 +31,7 @@ A sessão de priorização colaborativa resultou no mapa de funcionalidades a se
 
 
 <center>
-  <img src=https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/TabelaPriorizada.jpg" alt="Priorização Colaborativa" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/TabelaPriorizada.jpg" alt="Priorização Colaborativa" width="600px">
 </center>
 
 <div align="center">
