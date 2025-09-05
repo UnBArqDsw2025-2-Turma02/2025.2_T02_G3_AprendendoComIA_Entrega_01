@@ -93,7 +93,7 @@ Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
 
 
 <center>
-  <img src="../../docs/assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="../assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
 </center>
 
 <div align="center">
