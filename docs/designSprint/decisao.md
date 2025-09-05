@@ -1,6 +1,6 @@
-# Design Sprint Diversão
+# Design Sprint Decisão
 
-A fase de **Diversão** é o momento de convergência da Design Sprint. Após gerar uma vasta quantidade de ideias na etapa de Diversão, o foco agora é analisar criticamente, debater e selecionar as soluções mais promissoras que formarão a base do protótipo. Nesta etapa, a equipe se reúne para avaliar as propostas, combinar os melhores elementos e definir um caminho claro e unificado para a próxima fase.
+A fase de **Decisão** é o momento de convergência da Design Sprint. Após gerar uma vasta quantidade de ideias na etapa de Diversão, o foco agora é analisar criticamente, debater e selecionar as soluções mais promissoras que formarão a base do protótipo. Nesta etapa, a equipe se reúne para avaliar as propostas, combinar os melhores elementos e definir um caminho claro e unificado para a próxima fase.
 
 ---
 
@@ -31,7 +31,7 @@ A sessão de priorização colaborativa resultou no mapa de funcionalidades a se
 
 
 <center>
-  <img src="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/blob/main/docs/assets/TabelaPriorizada.jpg" alt="Priorização Colaborativa" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/TabelaPriorizada.jpg" alt="Priorização Colaborativa" width="600px">
 </center>
 
 <div align="center">
