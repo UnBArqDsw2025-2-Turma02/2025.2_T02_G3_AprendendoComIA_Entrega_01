@@ -63,5 +63,5 @@ Os principais objetivos desta fase de "Diversão" foram:
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 |[Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | Correções e acerto da priorização 
   `1.2` | Restruturação e correção de links  | [Arthur Carvalho Leite](https://github.com/arthurlleite) | 03/09/2025 | | | |
- `1.3` | Participação na priorização do MoSCoW | [Samuel](https://github.com/SamuelAfonso), [Felipe](https://github.com/FelipeFreire-gf), [Leonardo](), [Pedro](), [Gabriel](https://github.com/leozinlima), [Emivalto](https://github.com/EmivaltoJrr), [Vitor](https://github.com/Bessazs)  | 01/09/2025 | | | |
-  `1.4` | Correção dos links do Moscow e Three Level Scale e adição na tabela de versionamento dos mebros que participaram da priorização   | [Vitor](https://github.com/Bessazs)  | 04/09/2025 | | | |
+ `1.3` | Participação na priorização do MoSCoW | [Samuel](https://github.com/SamuelAfonso), [Felipe](https://github.com/FelipeFreire-gf), [Leonardo](), [Pedro](https://github.com/pfc15), [Gabriel](https://github.com/leozinlima), [Emivalto](https://github.com/EmivaltoJrr), [Vitor](https://github.com/Bessazs)  | 01/09/2025 | | | |
+  `1.4` | Correção dos links do Moscow e Three Level Scale e adição na tabela de versionamento dos mebros que participaram da priorização   | [Vitor Bessa](https://github.com/Bessazs)  | 04/09/2025 | | | |
