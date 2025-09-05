@@ -78,11 +78,9 @@ Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
 
 ## Há algo a ser executado?
 
-(x) SIM
+() SIM
 
-( ) NÃO
-
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+(x) NÃO
 
 ## Informações Complementares 
 
