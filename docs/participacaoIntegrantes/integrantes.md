@@ -32,6 +32,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento do artefato glossário, rich picture para a etapa de diversão, participação no brainstorming | Excelente | [Glossário](artefatosGeneralistas/glossario.md), [Rich Picture](designSprint/diversao.md), [Brainstorming](artefatosGeneralistas/brainstorming.md), [Estimativas](artefatosGeneralistas/estimativas.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](artefatosGeneralistas/lexicos.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato 5W2H | Excelente | [5W2H](artefatosGeneralistas/5w2h.md) |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato Rich Picture | Excelente | [Rich Picture](artefatosGeneralistas/richPicture.md) |
 
 
 ---
