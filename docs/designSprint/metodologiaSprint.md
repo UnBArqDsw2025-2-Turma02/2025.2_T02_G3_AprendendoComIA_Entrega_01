@@ -58,5 +58,5 @@ O processo foi estruturado da seguinte forma:
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial | Felipe das Neves | 01/09/2025 | | | |
+| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo da metodologia com base nos artefatos da Design Sprint. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 05/09/2025 | | | |
