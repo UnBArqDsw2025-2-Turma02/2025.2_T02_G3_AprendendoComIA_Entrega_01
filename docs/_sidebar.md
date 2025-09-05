@@ -13,7 +13,7 @@
     - [2.2. Diversão (Sketch) ](designSprint/diversao.md)
     - [2.3. Decisão (Dicision) ](designSprint/decisao.md)
     - [2.4. Prototipação (Prototype)) ](designSprint/prototipacao.md)
-    - [2.5. Validação (Validation) ](designSprint/validacao.md)
+    - [2.5. Teste (Test) ](designSprint/teste.md)
 
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
