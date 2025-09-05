@@ -34,7 +34,7 @@ O **brainstorming** resultou em um quadro com muitas ideias, que foi consolidado
 
 </div>
 
-<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVJNopTCE=/?embedMode=view_only_without_ui&moveToViewport=-678,-400,4239,3771&embedId=993580955118" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<iframe width="768" height="432" src="https://miro.com/app/live-embed/uXjVJNopTCE=/?embedMode=view_only_without_ui&moveToViewport=-458,-455,3881,3763&embedId=470201189250" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 ## Definição do Problema
