@@ -18,7 +18,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Mateus Bastos | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | Pedro Fonseca Cruz | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | [Samuel Afonso](https://github.com/SamuelAfonso) | <br>Formatação de todos os documentos. <br> Criação e modelagem do artefato Estimativas e Decisão<br>Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md), [Estimativas](artefatosGeneralistas/estimativas.md), [Decisão](designSprint/decisao.md) |
-| Vitor Bessa | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
+| [Vitor Bessa](https://github.com/Bessazs) |Criação e modelagem da Ata 3.<br> Co-autoria do quadro no Miro na etapa de compreensão. <br> Desenvolvimento textual da etapa de decisão da desing sprint <br> Pariticipação no desenvolvimento da etapa de decisão da desing sprint  | Exelente | [Compreensão](designSprint/compreensao.md), [Decisão](designSprint/decisao.md), [Ata 3](atas/ata3.md) |
 
 <div align="center"> <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p> </div>
 
@@ -33,6 +33,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](artefatosGeneralistas/lexicos.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato 5W2H | Excelente | [5W2H](artefatosGeneralistas/5w2h.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato Rich Picture | Excelente | [Rich Picture](artefatosGeneralistas/richPicture.md) |
+| [Vítor Bessa](https://github.com/bessazs) | Desenvolvimento do diagrama de ishikawa. <br> Pariticipação no Brainstorming | Excelente | [Ishikawa](artefatosGeneralistas/ishikawa.md), [Brainstorming](artefatosGeneralistas/brainstorming.md) |
 
 
 ---
