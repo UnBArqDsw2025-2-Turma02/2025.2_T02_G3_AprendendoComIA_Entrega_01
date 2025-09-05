@@ -40,17 +40,25 @@ O protótipo de baixa fidelidade foi construído com **esboços manuais**, permi
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 1</b> – Protótipo de baixa fidelidade (Tela inicial e login).</p></font>
-<img src="docs/assets/Notes_250904_174739_page-0001.jpg" alt="Protótipo baixa fidelidade 1">
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0001.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
 </figure>
+
+
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 2</b> – Protótipo de baixa fidelidade (Fluxo de cadastro e escolha de nível).</p></font>
-<img src="docs/assets/Notes_250904_174739_page-0002.jpg" alt="Protótipo baixa fidelidade 2">
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0002.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
 </figure>
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 3</b> – Protótipo de baixa fidelidade (Menu principal e desafios).</p></font>
-<img src="docs/assets/Notes_250904_174739_page-0003.jpg" alt="Protótipo baixa fidelidade 3">
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0003.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
 </figure>
 
 ---
@@ -61,13 +69,14 @@ Após validações iniciais, o protótipo evoluiu para uma versão de alta fidel
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> – Protótipo de alta fidelidade (Dashboard e progressão de XP).</p></font>
-<img src="docs/assets/Notes_250904_174739_page-0004.jpg" alt="Protótipo alta fidelidade 1">
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0004.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
+
 </figure>
 
-<figure markdown>
-<font size="3"><p style="text-align: center"><b>Figura 5</b> – Protótipo de alta fidelidade (Chat com IA e feedback de pronúncia).</p></font>
-<img src="docs/assets/Notes_250904_174739_page-0005.jpg" alt="Protótipo alta fidelidade 2">
-</figure>
+
+
 
 ---
 
