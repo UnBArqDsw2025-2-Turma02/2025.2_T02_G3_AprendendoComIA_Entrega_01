@@ -4,9 +4,6 @@
 
 - [Projeto](Projeto/Projeto.md)
 
-- **Desenho do Software**
-  - [1. Metodologia](desenhoDoSoftware/metodologiaDesenho.md)
-
 - **Design Sprint**
   - [2. Metodologia](designSprint/metodologiaSprint.md)
     - [2.1. Compreensão (Unpack) ](designSprint/compreensao.md)
