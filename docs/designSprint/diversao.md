@@ -93,7 +93,7 @@ Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
 
 
 <center>
-  <img src="../assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/blob/main/docs/assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
 </center>
 
 <div align="center">
@@ -101,7 +101,7 @@ Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
 </div>
 
 
-### Ideação: Emivalto Junior
+### Ideação: Vítor Bessa
 
 Rich picture contendo a minha ideia de tutor de inglês usando IA
 
@@ -112,7 +112,7 @@ Rich picture contendo a minha ideia de tutor de inglês usando IA
 
 
 <center>
-  <img src="../../docs/assets/richpictureVitor.jpg" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/blob/main/docs/assets/richpictureVitor.jpg" alt="Rich Picture da ideação de Vítor Bessa" width="600px">
 </center>
 
 <div align="center">

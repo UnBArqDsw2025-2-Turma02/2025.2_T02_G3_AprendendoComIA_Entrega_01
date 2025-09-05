@@ -31,7 +31,7 @@ A sessão de priorização colaborativa resultou no mapa de funcionalidades a se
 
 
 <center>
-  <img src="../../docs/assets/TabelaPriorizada.jpg" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/blob/main/docs/assets/TabelaPriorizada.jpg" alt="Priorização Colaborativa" width="600px">
 </center>
 
 <div align="center">
@@ -61,4 +61,5 @@ Os principais objetivos desta fase de "Diversão" foram:
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
-| `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 | | | |
+| `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 |[Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | Corações e acerto da priorização |
+ |
