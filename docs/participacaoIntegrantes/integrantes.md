@@ -29,9 +29,11 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento do artefato glossário, rich picture para a etapa de diversão, participação no brainstorming | Excelente | [Glossário](artefatosGeneralistas/glossario.md), [Rich Picture](designSprint/diversao.md), [Brainstorming](artefatosGeneralistas/brainstorming.md), [Estimativas](artefatosGeneralistas/estimativas.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](artefatosGeneralistas/lexicos.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato 5W2H | Excelente | [5W2H](artefatosGeneralistas/5w2h.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato Rich Picture | Excelente | [Rich Picture](artefatosGeneralistas/richPicture.md) |
+
 
 ---
 
@@ -39,8 +41,9 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama,  | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama, Modelagem da descoberta e preparação do diagrama. | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato BPMN | Excelente | [BPNM](bpmn/modelagemBpmn.md) |
+
 
 
 ---
@@ -50,4 +53,4 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
-| `1.1` | Adição da tabela de contribuições e detalhamento das atividades dos integrantes. | [Felipe das Neves](https://github.com/FelipeFreire-gf)| 01/09/2025 | | | |
+| `1.1` | Adição da tabela de contribuições e detalhamento das atividades do felipe | [Felipe das Neves](https://github.com/FelipeFreire-gf)| 05/09/2025 | | | |
