@@ -30,6 +30,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](designSprint/compreensao.md) |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento do artefato glossário, rich picture para a etapa de diversão, participação no brainstorming | Excelente | [Glossário](artefatosGeneralistas/glossario.md), [Rich Picture](designSprint/diversao.md), [Brainstorming](artefatosGeneralistas/brainstorming.md), [Estimativas](artefatosGeneralistas/estimativas.md) |
 
 ---
 
@@ -37,7 +38,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama,  | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama, Modelagem da descoberta e preparação do diagrama. | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
 
 
 ---
