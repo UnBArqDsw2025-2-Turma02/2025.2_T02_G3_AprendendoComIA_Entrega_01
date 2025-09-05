@@ -1,5 +1,5 @@
 # MoScoW
-
+---
 
 
 ## Sumário
@@ -13,18 +13,22 @@
 - [Won't "Não vai ter"](#wont-nao-vai-ter)
 - [Histórico de Versões](#historico-de-versoes)
 
-
+---
 
 ## Introdução
 O método de MoSCoW é uma técnica de priorização utilizada para alinhar os requisitos do projeto com as expectativas das partes interessadas. Ele categoriza as funcionalidades em quatro grupos: **Must, Should, Could e Won't**, garantindo que a equipe de desenvolvimento foque no que é mais crítico para o lançamento de uma versão inicial de sucesso.
 
+---
 
 ## Objetivo
 O objetivo deste artefato é estabelecer de forma clara e consensual a priorização dos requisitos do projeto, utilizando a técnica MoSCoW para orientar a equipe no desenvolvimento do aplicativo de prática de conversação com IA. A priorização garante que o Produto Mínimo Viável (MVP) seja construído com foco nos elementos essenciais para usabilidade, desempenho e segurança, enquanto funcionalidades adicionais são planejadas de acordo com sua relevância e viabilidad
 
+---
 
 ## Metodologia
 Para a priorização, a equipe analisou a importância de cada requisito funcional e não funcional em relação ao objetivo central do projeto: a criação de um aplicativo de prática de conversação com IA. As prioridades foram definidas em consenso, levando em conta o valor entregue ao usuário, a viabilidade técnica e a necessidade para o Produto Mínimo Viável (MVP).
+
+---
 
 ## Must "Deve ter"
 Os requisitos classificados como Must representam a base inegociável do produto. Sem eles, o sistema não teria utilidade ou não atenderia a critérios mínimos de segurança e funcionalidade. A implementação desses itens é a prioridade máxima da equipe.
@@ -92,6 +96,16 @@ Por fim, a categoria Won’t inclui requisitos que foram definidos como fora do 
 | RF01.5 | Conversação entre usuários. | Funcional | Won't | Média |
 
 
+
+
+## Bibliografia
+
+1. Leite, J. C. S. P., & Silva, C. T. (2005). *Rastreabilidade de Requisitos: Uma Revisão de Literatura*. Disponível em: [https://www.cos.ufrj.br/~jcspl/publications/monografias/20-05.pdf](https://www.cos.ufrj.br/~jcspl/publications/monografias/20-05.pdf)
+
+2. Cohn, M. (2004). *User Stories Applied: For Agile Software Development*. Addison-Wesley. Disponível em: [https://www.mountaingoatsoftware.com/books/user-stories-applied](https://www.mountaingoatsoftware.com/books/user-stories-applied)
+
+
+
 ## Histórico de Versões
 
 | Versão | Data de produção | Descrição da Alteração | Autor(es) | Revisor(es) | Data de Revisão |
@@ -104,45 +118,3 @@ Por fim, a categoria Won’t inclui requisitos que foram definidos como fora do 
 
 
 
-
-
-<!--
----
-
-## Sumário
-
-- [Técnica Utilizada](#Técnica-Utilizada)
-- [Objetivos](#Objetivos)
-- [Bibliografia](#bibliografia)
-- [Histórico de Versões](#histórico-de-versões)
-
----
-
-## Técnica Utilizada
-
-Infos
-
-
-<center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.0</span>
-</center>
-
-## Objetivos
-
-
----
-
-## Bibliografia
-
-> <p><small>CONTENT STUDIO. O que é um dicionário de dados? Disponível em: <a href="https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html">https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html</a>. Acesso em: 30 abr. 2025.</small></p>
-
----
-
-## Histórico de Versões
-
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
-| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | | | |
-
-
--->
