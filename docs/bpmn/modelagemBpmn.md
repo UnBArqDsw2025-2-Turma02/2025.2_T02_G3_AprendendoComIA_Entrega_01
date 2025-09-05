@@ -59,7 +59,14 @@ O processo começa com o evento de **Início** (círculo verde).
 
   <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Legenda BPMN | Versão 1.0</span>
   <br>
-  
+
+<div align="center">
+<iframe width="50%" height="450" src="https://miro.com/app/board/uXjVJMHJOCk=/" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+
+ <p>Autores: <a href="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01">Arthur, Emivalto, Felipe, Gabriel, Leonardo, Pedro, Samuel e Vitor</a>.</p>
+
+</div> 
+
 ![legenda bpmn](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/LegendaBPNM.jpg)
 <center> Autores: <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves e Leonardo de Melo</a></center>
 

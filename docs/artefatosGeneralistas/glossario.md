@@ -124,5 +124,5 @@ Os termos foram organizados em ordem alfabética para facilitar a consulta.
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Criação do Glossário com base nos artefatos do projeto. |  [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | |  | |
-| `1.1` | adição de novos termos ao Glossário com base nos artefatos do projeto. |  [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | |  | |
+| `1.0` | Criação do Glossário com base nos artefatos do projeto. |  [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 |[Arthur Carvalho](https://github.com/arthurlleite)  | 04/09/2025| arrumei alguns erros nas estruturas |
+| `1.1` | adição de novos termos ao Glossário com base nos artefatos do projeto. |  [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 |[Arthur Carvalho](https://github.com/arthurlleite)  | 04/09/2025| arrumei alguns erros nas estruturas |
