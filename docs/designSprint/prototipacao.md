@@ -61,11 +61,6 @@ O protótipo de baixa fidelidade foi construído com **esboços manuais**, permi
 </center>
 </figure>
 
----
-
-## Protótipo de Alta Fidelidade
-
-Após validações iniciais, o protótipo evoluiu para uma versão de alta fidelidade, construída em ferramenta digital. Essa etapa permitiu incluir **cores, tipografia, ícones, interações e identidade visual**, aproximando-se do design final. Foi possível realizar testes de usabilidade mais completos e observar como o público interagia com os fluxos.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> – Protótipo de alta fidelidade (Dashboard e progressão de XP).</p></font>
@@ -76,8 +71,9 @@ Após validações iniciais, o protótipo evoluiu para uma versão de alta fidel
 </figure>
 
 
+## Protótipo de Alta Fidelidade
 
-
+O nosso protótipo de alta fidelidade consiste em um [deploy inicial]() de uma versão básica da aplicação."
 ---
 
 ## Bibliografia
