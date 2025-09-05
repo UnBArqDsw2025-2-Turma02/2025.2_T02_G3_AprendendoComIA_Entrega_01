@@ -62,11 +62,38 @@ Faixa etária, nível, uso prévio, objetivos, motivação, frequência, dificul
 
 **Protótipos**  
 - Baixa fidelidade (rascunhos `.jpg`):  
-  `docs/assets/Notes_250904_174739_page-0001.jpg`  
-  `docs/assets/Notes_250904_174739_page-0002.jpg`  
-  `docs/assets/Notes_250904_174739_page-0003.jpg`  
-  `docs/assets/Notes_250904_174739_page-0004.jpg`  
-  `docs/assets/Notes_250904_174739_page-0005.jpg`  
+  <figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 1</b> – Protótipo de baixa fidelidade (Tela inicial e login).</p></font>
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0001.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
+</figure>
+
+
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 2</b> – Protótipo de baixa fidelidade (Fluxo de cadastro e escolha de nível).</p></font>
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0002.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
+</figure>
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 3</b> – Protótipo de baixa fidelidade (Menu principal e desafios).</p></font>
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0003.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
+</figure>
+
+
+<figure markdown>
+<font size="3"><p style="text-align: center"><b>Figura 4</b> – Protótipo de alta fidelidade (Dashboard e progressão de XP).</p></font>
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Notes_250904_174739_page-0004.jpg" alt="Priorização Colaborativa" width="600px">
+</center>
+
+</figure>
+ 
 - Alta fidelidade (versão digital do documento de Prototipação).
 
 **Fluxos avaliados**  
@@ -77,9 +104,11 @@ Onboarding (nível CEFR + perfil), Home, Chat IA, Exercícios (listening/writing
 ## Perfil do Usuário (Persona)
 
 <figure markdown>
-<font size="3"><p style="text-align: center"><b>Persona – Ana</b></p></font>
-<img src="docs/assets/download.jfif" alt="Persona Ana" width="180">
-<figcaption><font size="3">Imagem ilustrativa da persona utilizada nos testes.</font></figcaption>
+<font size="3"><p style="text-align: center"><b>Persona – Ana</b>Imagem ilustrativa da persona utilizada nos testes.</p></font>
+<center>
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/download.jfif" alt="Priorização Colaborativa" width="600px">
+</center>
+
 </figure>
 
 **Ana**, 22 anos — estudante e em início de carreira.  
