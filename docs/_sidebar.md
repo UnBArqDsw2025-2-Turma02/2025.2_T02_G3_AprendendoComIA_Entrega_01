@@ -4,9 +4,6 @@
 
 - [Projeto](Projeto/Projeto.md)
 
-- **Desenho do Software**
-  - [1. Metodologia](desenhoDoSoftware/metodologiaDesenho.md)
-
 - **Design Sprint**
   - [2. Metodologia](designSprint/metodologiaSprint.md)
     - [2.1. Compreensão (Unpack) ](designSprint/compreensao.md)
@@ -25,6 +22,7 @@
     - [3.6. Glossário](artefatosGeneralistas/glossario.md)
     - [3.7. Estimativas](artefatosGeneralistas/estimativas.md)
     - [3.8. Rich Picture](artefatosGeneralistas/richPicture.md)
+    - [3.9. Ishikawa](artefatosGeneralistas/Ishikawa.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)

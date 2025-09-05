@@ -93,7 +93,7 @@ Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
 
 
 <center>
-  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Rich_Picture_Polyglot_AI.jpg" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
 </center>
 
 <div align="center">
@@ -138,3 +138,4 @@ Rich picture contendo a minha ideia de tutor de inglês usando IA
 | `1.2` | Inserção dos trabalhos do Felipe e do Gabriel. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
 | `1.3` | Inserção do rich picture do Emivalto Junior. | [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | | | |
 | `1.4` | Inserção do rich picture do Vítor Bessa. | [Vítor Bessa](https://github.com/Bessazs) | 04/09/2025 | | | |
+| `1.5` | Realização do Mind Map | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |

@@ -29,7 +29,8 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](designSprint/compreensao.md) |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](artefatosGeneralistas/lexicos.md) |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato 5W2H | Excelente | [5W2H](artefatosGeneralistas/5w2h.md) |
 
 ---
 
@@ -38,6 +39,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama,  | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
+| [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato BPMN | Excelente | [BPNM](bpmn/modelagemBpmn.md) |
 
 
 ---

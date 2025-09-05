@@ -58,3 +58,4 @@ Em consenso o resultado final do BrainStorm foi o seguinte:
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | | | |
 | `1.1` | Modelagem inicial | [Pedro Cruz](https://github.com/pfc15) | 04/09/2025 | | | |
+| `1.2` | Modelagem inicial | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |
