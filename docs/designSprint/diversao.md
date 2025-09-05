@@ -93,7 +93,7 @@ Rich Picture de uma idea de como o projeto poderia ser desenvolvido:
 
 
 <center>
-  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Rich_Picture_Polyglot_AI.png" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
+  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/Rich_Picture_Polyglot_AI.jpg" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
 </center>
 
 <div align="center">
