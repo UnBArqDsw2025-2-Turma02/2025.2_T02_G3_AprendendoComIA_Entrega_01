@@ -8,7 +8,7 @@
   - [2. Metodologia](designSprint/metodologiaSprint.md)
     - [2.1. Compreensão (Unpack) ](designSprint/compreensao.md)
     - [2.2. Diversão (Sketch) ](designSprint/diversao.md)
-    - [2.3. Decisão (Dicision) ](designSprint/decisao.md)
+    - [2.3. Decisão (Decision) ](designSprint/decisao.md)
     - [2.4. Prototipação (Prototype)) ](designSprint/prototipacao.md)
     - [2.5. Teste (Test) ](designSprint/teste.md)
 
