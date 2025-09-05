@@ -67,9 +67,9 @@ O Rich Picture do AI Linguo ilustra a jornada do usuário e as principais funcio
 
 ## Bibliografia
 
-1. SERRANO, Milene. *02c - VideoAula - DSW-Base - Rich Picture: ArqDSW - Vídeos Originais*, 25 jul. 2020. 1 vídeo (12 min 13 s). Disponível em: [https://unbbr-my.sharepoint.com/\:v:/g/personal/mileneserrano\_unb\_br/ES31KXHMdmZEht-mp2SIx9YBVIBYPq5j6C8DZj7i-ie5\_A?e=ytfTHl](https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/ES31KXHMdmZEht-mp2SIx9YBVIBYPq5j6C8DZj7i-ie5_A?e=ytfTHl). Acesso em: 05 set. 2025.
+> **OPEN UNIVERSITY**. Rich pictures. OpenLearn, [s.d.]. Disponível em: https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures. 
 
-2. POHL, Klaus; RUPP, Chris. *Requirements Engineering Fundamentals*. 2. ed., 2015. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523050/mod\_resource/content/4/Requisitos%20%20Aula%2004%20-%20Parte%202%20RichPicture.pdf](https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4/Requisitos%20%20Aula%2004%20-%20Parte%202%20RichPicture.pdf). Acesso em: 05 set. 2025.
+> **VISUAL SCRIBING**. What are rich pictures?. Visual Scribing, 15 out. 2019. Disponível em: https://www.visualscribing.com/blog/2019-10-15-what-are-rich-pictures.
 
 ---
 
