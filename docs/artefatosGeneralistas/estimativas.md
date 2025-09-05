@@ -1,5 +1,11 @@
 # Estimativas
 
+De acordo com __Steve McConnell__ e seu livro __"Software Estimation: Demystifying the Black Art"__, uma estimativa é uma previsão bem fundamentada do resultado provável. É uma avaliação quantitativa do esforço e do prazo prováveis para um projeto, que deve ser apresentada como uma faixa de valores com diferentes níveis de probabilidade, e não como uma garantia única e fixa.
+
+Ao levar isso em consideração, entendemos que a __estimativa de custo, tempo e risco__ em projetos de software tem como objetivo principal o fornecimento de uma visão clara e honesta sobre o escopo e a complexidade do trabalho a ser realizado, permitindo um planejamento e tomada de decisão mais eficazes. Neste contexto, o projeto __AILINGUO__, que será desenvolvido individualmente durante o semestre 2025.2, apresenta características específicas que influenciam diretamente no seu planejamento e na sua execução.
+
+---
+
 ## Sumário
 
 - [Introdução](#Introdução)
@@ -11,12 +17,7 @@
 - [Bibliografia](#bibliografia)
 - [Histórico de Versões](#histórico-de-versões)
 
-
-## Introdução
-
-De acordo com __Steve McConnell__ e seu livro __"Software Estimation: Demystifying the Black Art"__, uma estimativa é uma previsão bem fundamentada do resultado provável. É uma avaliação quantitativa do esforço e do prazo prováveis para um projeto, que deve ser apresentada como uma faixa de valores com diferentes níveis de probabilidade, e não como uma garantia única e fixa.
-
-Ao levar isso em consideração, entendemos que a __estimativa de custo, tempo e risco__ em projetos de software tem como objetivo principal o fornecimento de uma visão clara e honesta sobre o escopo e a complexidade do trabalho a ser realizado, permitindo um planejamento e tomada de decisão mais eficazes. Neste contexto, o projeto __AILINGUO__, que será desenvolvido individualmente durante o semestre 2025.2, apresenta características específicas que influenciam diretamente no seu planejamento e na sua execução.
+---
 
 ## Técnica Utilizada
 
@@ -92,4 +93,4 @@ Este artefato tem como objetivo apresentar o plano estimado de risco, custo e te
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | Correção da aba |
+| `1.0` | Desenvolvimento do artefato de estimativas | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | Correção da aba |
