@@ -40,7 +40,6 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-
 | [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama, Modelagem da descoberta e preparação do diagrama. | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato BPMN | Excelente | [BPNM](bpmn/modelagemBpmn.md) |
 
@@ -53,4 +52,4 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
-| `1.1` | Adição da tabela de contribuições e detalhamento das atividades dos integrantes. | [Felipe das Neves](https://github.com/FelipeFreire-gf)| 01/09/2025 | | | |
+| `1.1` | Adição da tabela de contribuições e detalhamento das atividades do felipe | [Felipe das Neves](https://github.com/FelipeFreire-gf)| 05/09/2025 | | | |
