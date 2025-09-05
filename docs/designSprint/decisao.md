@@ -16,7 +16,7 @@ A fase de **Diversão** é o momento de convergência da Design Sprint. Após ge
 
 ## Técnica Utilizada
 
-Para a fase de 'Decisão' da Design Sprint, a equipe empregou uma sessão de **priorização colaborativa**. Utilizando as ideias geradas na etapa de Divergência como ponto de partida, o time se engajou em um debate estruturado para identificar e selecionar as funcionalidades com maior potencial de impacto, logo após aplicamos duas outras técnicas de priorização a técnica [Moscow]() e [Three Level Scale]() alinhando a visão do produto antes de avançar para a prototipagem.
+Para a fase de 'Decisão' da Design Sprint, a equipe empregou uma sessão de **priorização colaborativa**. Utilizando as ideias geradas na etapa de Divergência como ponto de partida, o time se engajou em um debate estruturado para identificar e selecionar as funcionalidades com maior potencial de impacto, logo após aplicamos duas outras técnicas de priorização a técnica [Moscow](../docs/moscow) e [Three Level Scale](#threeLevel) alinhando a visão do produto antes de avançar para a prototipagem.
 
 
 
