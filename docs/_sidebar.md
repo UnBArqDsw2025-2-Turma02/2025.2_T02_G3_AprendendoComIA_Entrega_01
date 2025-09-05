@@ -10,7 +10,7 @@
     - [2.2. Diversão (Sketch) ](designSprint/diversao.md)
     - [2.3. Decisão (Dicision) ](designSprint/decisao.md)
     - [2.4. Prototipação (Prototype)) ](designSprint/prototipacao.md)
-    - [2.5. Validação (Validation) ](designSprint/validacao.md)
+    - [2.5. Teste (Test) ](designSprint/teste.md)
 
 - **Artefatos Generalistas**
   - [3. Metodologia](artefatosGeneralistas/metodologiaArtefatosGeneralistas.md)
@@ -18,11 +18,10 @@
     - [3.2. Brainstorming](artefatosGeneralistas/brainstorming.md)
     - [3.3. 5W2H](artefatosGeneralistas/5w2h.md)
     - [3.4. Mapa Mental](artefatosGeneralistas/mapaMental.md)
-    - [3.5. Diagrama de Ishikawa](artefatosGeneralistas/ishikawa.md)
+    - [3.5. Diagrama de Ishikawa](artefatosGeneralistas/Ishikawa.md)
     - [3.6. Glossário](artefatosGeneralistas/glossario.md)
     - [3.7. Estimativas](artefatosGeneralistas/estimativas.md)
     - [3.8. Rich Picture](artefatosGeneralistas/richPicture.md)
-    - [3.9. Ishikawa](artefatosGeneralistas/Ishikawa.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
