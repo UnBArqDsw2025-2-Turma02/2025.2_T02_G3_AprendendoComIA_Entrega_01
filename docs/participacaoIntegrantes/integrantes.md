@@ -17,7 +17,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Leonardo de Melo | Co-redator da Ata 1.<br>Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | Mateus Bastos | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | Pedro Fonseca Cruz | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
-| Samuel Afonso | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
+| [Samuel Afonso](https://github.com/SamuelAfonso) | <br>Formatação de todos os documentos. <br> Criação e modelagem do artefato Estimativas e Decisão<br>Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md), [Estimativas](artefatosGeneralistas/estimativas.md), [Decisão](designSprint/decisao.md) |
 | Vitor Bessa | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 
 <div align="center"> <p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p> </div>

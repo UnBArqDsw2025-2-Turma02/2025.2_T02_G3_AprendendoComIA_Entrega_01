@@ -61,6 +61,6 @@ Os principais objetivos desta fase de "Diversão" foram:
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
-| `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 |[Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | Corações e acerto da priorização |
- |
- | `1.2` | Restruturação e correção de links  | [Arthur Carvalho Leite](https://github.com/arthurlleite) | 01/09/2025 | | | |
+| `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 |[Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | Corações e acerto da priorização 
+  `1.2` | Restruturação e correção de links  | [Arthur Carvalho Leite](https://github.com/arthurlleite) | 01/09/2025 | | | |
+ `1.4` | Participação na priorização do MoSCoW | [Samuel Afonso da Silva Santos](https://github.com/SamuelAfonso) | 04/09/2025 | | | |
