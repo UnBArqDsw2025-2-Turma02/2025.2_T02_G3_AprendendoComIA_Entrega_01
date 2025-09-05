@@ -139,11 +139,7 @@ Utilizaremos o modelo de tabela abaixo para registrar e definir cada palavra ao 
 
 ## Bibliografia
 
-> 1.  SAYÃO, Miriam; CARVALHO, Gustavo. **Construção do léxico de aplicações**. Information and Human Language Technology, 4th Workshop, Ribeirão Preto, 2006. Disponível em: [http://www-di.inf.puc-rio.br/\~julio/bnncap3.pdf/](http://www-di.inf.puc-rio.br/~julio/bnncap3.pdf/).
-
-> 2.  SERRANO, Milene. **Requisitos – Aula 10**. 2017. Apresentação de slides. Disponível em: [https://aprender3.unb.br/pluginfile.php/2523091/mod\_resource/content/1/Aula%2010.pdf](https://aprender3.unb.br/pluginfile.php/2523091/mod_resource/content/1/Aula%2010.pdf).
-
-> 3.  ZOWGHI, D.; COULIN, C. **Requirements Elicitation: A Survey of Techniques, Approaches and Tools**. Disponível em: [https://web.eecs.umich.edu/\~weimerw/2018-481/readings/requirements.pdf](https://web.eecs.umich.edu/~weimerw/2018-481/readings/requirements.pdf).
+> ZOWGHI, D.; COULIN, C. **Requirements Elicitation: A Survey of Techniques, Approaches and Tools**. Disponível em: [https://web.eecs.umich.edu/\~weimerw/2018-481/readings/requirements.pdf](https://web.eecs.umich.edu/~weimerw/2018-481/readings/requirements.pdf).
 
 ---
 
