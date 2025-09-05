@@ -25,6 +25,7 @@
     - [3.6. Glossário](artefatosGeneralistas/glossario.md)
     - [3.7. Estimativas](artefatosGeneralistas/estimativas.md)
     - [3.8. Rich Picture](artefatosGeneralistas/richPicture.md)
+    - [3.9. Ishikawa](artefatosGeneralistas/Ishikawa.md)
 
 - **Modelagem BPNM**
   - [4. Metodologia](bpmn/metodologiaBpmn.md)
