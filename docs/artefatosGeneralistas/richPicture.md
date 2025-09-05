@@ -1,5 +1,18 @@
 # Rich Picture
 
+---
+
+## Sumário
+
+- [Introdução](#Introdução)
+- [Metodologia](#Metodologia)
+- [Legenda do Rich Picture](#legenda-do-rich-picture)
+- [Rich Picture do AI Linguo](#rich-picture-do-ai-linguo)
+- [Descrição dos Elementos e Fluxos](#descrição-dos-elementos-e-fluxos)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versões](#histórico-de-versões)
+
+---
 ## Introdução
 
 O Rich Picture é uma técnica de modelagem de ideias pouco formal, utilizada para representar situações, desejos e necessidades por meio de desenhos e textos curtos. Diferente de diagramas técnicos, ele privilegia a simplicidade e a comunicação visual, sendo uma ferramenta poderosa para capturar, de forma intuitiva, como os diferentes atores e componentes interagem dentro de um sistema.
