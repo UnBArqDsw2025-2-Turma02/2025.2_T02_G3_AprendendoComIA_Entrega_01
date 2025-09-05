@@ -10,9 +10,9 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-| Arthur Carvalho Leite | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
+| Arthur Carvalho Leite | Líder do projeto.<br>Co-autoria do quadro no Miro na etapa de compreensão.<br>Criação e modelagem da Ata 1 e 2.<br>Criação do artefato Questionário.<br>Criação e desenvolvimento do diagrama Ishikawa.<br>Criação e desenvolvimento do Glossário.<br>Elaboração do conteúdo textual sobre a fase Validação.<br> Desenvolvimento da fase de prototipação de baixa e alta qualidade do Software aprendendocomIA.<br>Criação, Elaboração e Desenvolvimento da fase BPMN. | Excelente | [Compreensão](designSprint/compreensao.md), [Atas](atas/ata1.md), [Atas](atas/ata2.md), [Questionário](iniciativasExtras/questionario.md), [AnálisedeDocumentos](iniciativasExtras/analiseDeDocumentos.md), [Ishikawa](artefatosGeneralistas/ishikawa.md), [Prototipação](designSprint/prototipacao.md), [Validação](designSprint/validacao.md), [BPMN](bpmn/metodologiaBpmn.md), [BPMN](bpmn/modelagemBpmn.md) |
 | Emivalto Da Costa | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Criação e modelagem da Ata 1, 2, 3 e 4.<br>Criação e modelagem do artefato de Compreensão (Design Sprint).<br>Elaboração do conteúdo textual sobre a fase de Compreensão.<br>Adição e ajuste de iframes (Miro, YouTube) da etapa de compreensão da design sprint.<br>Formatação de todos os documentos.<br>Criação da estrutura inicial de todos os documentos.<br>Co-autoria do quadro no Miro na etapa de compreensão. <br> Desenho do rich picture da etapa de compreensão. | Excelente  | [Atas](atas/ata1.md), [Compreensão](designSprint/compreensao.md) |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Criação e modelagem da Ata 1, 2, 3 e 4.<br>Criação e modelagem do artefato de Compreensão (Design Sprint).<br>Elaboração do conteúdo textual sobre a fase de Compreensão.<br>Adição e ajuste de iframes (Miro, YouTube) da etapa de compreensão da design sprint.<br>Formatação de todos os documentos.<br>Criação da estrutura inicial de todos os documentos.<br>Co-autoria do quadro no Miro na etapa de compreensão. | Excelente  | [Atas](atas/ata1.md), [Compreensão](designSprint/compreensao.md) |
 | Gabriel Lima | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | Leonardo de Melo | Co-redator da Ata 1.<br>Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
 | Mateus Bastos | Co-autoria do quadro no Miro na etapa de compreensão. | | [Compreensão](designSprint/compreensao.md) |
@@ -30,7 +30,6 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
 | [Leonardo de Melo](https://github.com/leozinlima) | Desenvolvimento do artefato léxico | Excelente | [Léxico](designSprint/compreensao.md) |
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento do artefato Glossário, elicitação de requisitos | Excelente | [Glossário](artefatoGeneralista/glossario.md), [Requisitos](iniciativasExtras/requisitosElicitados.md) |
 
 ---
 
@@ -38,7 +37,7 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 
 | Nome do Membro | Contribuição | Significância da Contribuição para o Projeto | Comprobatórios Claros (com link) |
 |----------------|--------------|----------------------------------------------|-----------------------------------|
-| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama   | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md) [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
+| [Felipe das Neves](https://github.com/FelipeFreire-gf) | Desenvolvimento da descrição da metodologia, Modelagem inicial do diagrama,  | Excelente | [Diagrama Bpmn](bpmn/modelagemBpmn.md), [Metodologia Bpmn](bpmn/metodologiaBpmn.md) |
 
 
 ---
