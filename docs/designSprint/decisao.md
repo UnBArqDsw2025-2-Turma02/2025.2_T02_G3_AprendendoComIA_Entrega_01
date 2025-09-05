@@ -1,24 +1,58 @@
-# Design Sprint Decisão
+# Design Sprint Diversão
+
+A fase de **Diversão** é o momento de convergência da Design Sprint. Após gerar uma vasta quantidade de ideias na etapa de Diversão, o foco agora é analisar criticamente, debater e selecionar as soluções mais promissoras que formarão a base do protótipo. Nesta etapa, a equipe se reúne para avaliar as propostas, combinar os melhores elementos e definir um caminho claro e unificado para a próxima fase.
+
+---
+
+## Sumário
+
+- [Técnica Utilizada](#Técnica-Utilizada)
+- [Objetivos](#Objetivos)
+- [Priorização](#Priorização)
+- [Bibliografia](#bibliografia)
+- [Histórico de Versões](#histórico-de-versões)
 
 ---
 
 ## Técnica Utilizada
 
-Infos
+Para a fase de 'Decisão' da Design Sprint, a equipe empregou uma sessão de **priorização colaborativa**. Utilizando as ideias geradas na etapa de Divergência como ponto de partida, o time se engajou em um debate estruturado para identificar e selecionar as funcionalidades com maior potencial de impacto, logo após aplicamos duas outras técnicas de priorização a técnica [Moscow]() e [Three Level Scale]() alinhando a visão do produto antes de avançar para a prototipagem.
+
+
+
+## Priorização
+
+A sessão de priorização colaborativa resultou no mapa de funcionalidades a seguir, que serviu como o guia definitivo para a etapa de prototipagem.
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Quadro Priorizado </span>
+  <br></br>
+</center>
 
 
 <center>
-  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Design Sprint | Versão 1.0</span>
+  <img src="../../docs/assets/TabelaPriorizada.jpg" alt="Rich Picture da ideação de Emivalto Junior" width="600px">
 </center>
+
+<div align="center">
+    <p>Autores: <a href="https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01">Arthur, Emivalto, Felipe, Gabriel, Leonardo, Pedro, Samuel e Vitor</a>.</p>
+</div>
+
 
 ## Objetivos
 
+Os principais objetivos desta fase de "Diversão" foram:
+
+*   **Avaliar as Ideias Geradas:** Analisar criticamente a viabilidade, o impacto e o alinhamento de cada solução proposta na fase anterior.
+*  **Priorizar Funcionalidades:** Selecionar os recursos e conceitos mais importantes que devem ser incluídos no protótipo para teste.
+*  **Alcançar o Consenso da Equipe:** Garantir que todos os membros estejam alinhados e comprometidos com a direção escolhida para o produto.
+*   **Definir um Caminho Único:** Convergir de múltiplas possibilidades para um único fluxo de usuário claro e testável.
+
 
 ---
-
 ## Bibliografia
 
-> <p><small>CONTENT STUDIO. O que é um dicionário de dados? Disponível em: <a href="https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html">https://www.purestorage.com/br/knowledge/what-is-a-data-dictionary.html</a>. Acesso em: 30 abr. 2025.</small></p>
+> <p><small>KNAPP, J.; ZERATSKY, J. The Design Sprint. Disponível em: https://www.thesprintbook.com/the-design-sprint. Acesso em: 2 set. 2025. </small></p>
 
 ---
 
@@ -27,3 +61,4 @@ Infos
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
+| `1.1` | Desenvolvimento do conteúdo da etapa de decisão | [Vitor Bessa](https://github.com/Bessazs) | 03/09/2025 | | | |
