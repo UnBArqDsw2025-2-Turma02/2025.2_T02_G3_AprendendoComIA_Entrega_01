@@ -10,4 +10,4 @@
 [GitHub](https://github.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01)
 [Acesse a documentação](https://unbarqdsw2025-2-turma02.github.io/2025.2_T02_G3_AprendendoComIA_Entrega_01/#/?id=aprendendocomia)
 
-![color](#2c3e50)
+![color](#199999)
