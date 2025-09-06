@@ -4,7 +4,6 @@
 **Número do Grupo**: 03<br>
 **Entrega**: 01<br>
 
-## Alunos
 
 ## Alunos
 
