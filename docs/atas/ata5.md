@@ -71,4 +71,4 @@
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Inserção dos dados da ata 4 | [Mateus Bastos](https://github.com/MateuSansete) | 05/09/2025 | | | |
+| `1.0` | Inserção dos dados da ata 4 | [Mateus Bastos](https://github.com/MateuSansete) e [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | | | |
