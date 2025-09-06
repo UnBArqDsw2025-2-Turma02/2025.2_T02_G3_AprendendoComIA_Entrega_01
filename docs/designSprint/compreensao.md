@@ -46,9 +46,9 @@ Após a sessão de **brainstorming** e as discussões, a equipe alinhou o foco d
 
 **Gravação do Brainstorm**
 
-<iframe width="700" height="500" src="https://youtu.be/xNrcE_eeX_w" title="reuniao-brainstorm" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xNrcE_eeX_w?si=vtzztyYaWdzJSJPw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-  <p>Autor: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</p>
+  <p>Autor: <a href="https://github.com/arthurlleite">Arthur Carvalho</a><a href="https://github.com/EmivaltoJrr">Emivalto Junior</a>.</p>
 
 </div>
 
@@ -71,4 +71,4 @@ Após a sessão de **brainstorming** e as discussões, a equipe alinhou o foco d
 | `1.2` | Referenciação bibliográfica | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.3` | Participação no BrainStorming |[Leonardo](https://github.com/leozinlima), [Samuel](https://github.com/SamuelAfonso), [Vitor](https://github.com/Bessazs) | 04/09/2025 | | | |
 | `1.4` | Reestruturação da fase | [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | | | |
-| `1.5` | Adição da gravação e edição da reunião | [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | | | |
+| `1.5` | Adição da gravação e edição da reunião | [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | [Emivalto Junior](https://github.com/EmivaltoJrr) | 05/09/2025| coreção de link quebrados e adição de melhorias e padronização |
