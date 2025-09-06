@@ -86,3 +86,4 @@ O processo começa com o evento de **Início** (círculo verde).
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Realização do BPMN| [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |
 | `1.2` | Inserção do BPMN | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
+| `1.3` | Realização do BPMN e Subprocessos | [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | | | |
