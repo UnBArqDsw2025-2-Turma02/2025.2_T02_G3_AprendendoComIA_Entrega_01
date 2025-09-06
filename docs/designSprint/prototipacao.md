@@ -73,7 +73,17 @@ O protótipo de baixa fidelidade foi construído com **esboços manuais**, permi
 
 ## Protótipo de Alta Fidelidade
 
-O nosso protótipo de alta fidelidade consiste em um [deploy inicial]() de uma versão básica da aplicação."
+O nosso protótipo de alta fidelidade consiste em um deploy inicial de uma versão básica da aplicação. A seguir terá um video de como essa prototipação ficou."
+
+<p><strong>Prototipação de Alta Fidelidade já com o deploy rodando<em></em></strong></p>
+
+<iframe width="560" height="315" src="https://youtu.be/sYXhqw84RAI?si=dpqCpXT8poH_lwkA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.</p>
+</div>
 ---
 
 ## Bibliografia
