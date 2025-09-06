@@ -1,4 +1,4 @@
-# Ata 04
+# Ata 05
 
 ---
 
@@ -8,7 +8,7 @@
 | ---- | ------ | ------- | ----- |
 | 04/09/2025 | 21:00 | 23:36 | Microsoft Teams |
 
-**Redator**: Felipe das Neves
+**Redator**: Mateus Bastos
 
 **Presentes**: 
 
@@ -72,3 +72,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Inserção dos dados da ata 4 | [Mateus Bastos](https://github.com/MateuSansete) e [Arthur Carvalho](https://github.com/arthurlleite) | 05/09/2025 | | | |
+
