@@ -18,8 +18,18 @@
 | <img src="https://avatars.githubusercontent.com/u/106821260?v=4" height="70"> | 21/1062473 | Samuel Afonso da Silva Santos |
 | <img src="https://avatars.githubusercontent.com/u/118318004?v=4" height="70"> | 18/0132466 | Vitor Bessa |
 
-## Sobre 
-Contextualize, usando referências, links, e outros materiais como fontes.
+ 
+## Sobre
+
+O aprendizado de inglês é uma das habilidades mais valorizadas globalmente, tanto no contexto acadêmico quanto profissional. De acordo com o relatório da [EF English Proficiency Index (2023)](https://www.ef.com.br/epi/), o Brasil ocupa a 58ª posição entre 113 países avaliados, sendo classificado com **nível baixo de proficiência**. Esse dado reforça a necessidade de soluções inovadoras que promovam maior engajamento e eficácia no processo de aprendizagem.  
+
+Nos últimos anos, o uso de **Inteligência Artificial na educação (AI in Education)** tem ganhado destaque. Relatórios como o da [UNESCO (2022)](https://unesdoc.unesco.org/ark:/48223/pf0000376709) ressaltam que a IA pode personalizar o ritmo de aprendizado, identificar dificuldades específicas e oferecer feedback imediato, ampliando as oportunidades de acesso à educação de qualidade.  
+
+Além disso, estudos sobre **gamificação aplicada ao ensino** mostram que estratégias baseadas em recompensas, rankings e desafios aumentam a motivação e a retenção de conhecimento. Segundo [Deterding et al. (2011)](https://dl.acm.org/doi/10.1145/2181037.2181040), a gamificação transforma atividades tradicionais em experiências mais atrativas e imersivas, com impacto positivo no engajamento dos estudantes.  
+
+Diversos aplicativos já exploram esse potencial. O [Duolingo](https://www.duolingo.com/press), por exemplo, popularizou o aprendizado de idiomas com forte uso de gamificação, alcançando mais de 500 milhões de usuários. O [ELSA Speak](https://elsaspeak.com/), por outro lado, foca no aperfeiçoamento da pronúncia com tecnologia de reconhecimento de voz e feedback personalizado. Apesar disso, ainda há uma lacuna na integração entre **conteúdo estruturado, gamificação e prática de conversação em tempo real**.  
+
+Nesse contexto, o projeto **Aprendendo com IA** busca preencher essa lacuna, oferecendo uma plataforma que combina **gamificação**, **conteúdo adaptativo** e um **tutor de conversação inteligente**, tornando o aprendizado de inglês mais **personalizado, acessível e motivador**.
 
 ## Screenshots da Primeira Entrega
 Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
@@ -43,7 +53,7 @@ Execute o comando:
 ```shell
 npm i docsify-cli -g
 ```
-
+hjh
 ### Executando localmente
 
 Para iniciar o site localmente, utilize o comando::
