@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/logo.png" alt="logo" width="200" style="border-radius: 50%;" />
+  <img src="./assets/imagemlogoaprendendocomia.png" alt="logo" width="200" style="border-radius: 50%;" />
 </p>
 
 
