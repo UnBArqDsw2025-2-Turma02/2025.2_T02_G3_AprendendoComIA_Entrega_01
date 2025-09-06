@@ -138,3 +138,4 @@ Rich picture contendo a minha ideia de tutor de inglês usando IA
 | `1.2` | Inserção dos trabalhos do Felipe e do Gabriel. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
 | `1.3` | Inserção do rich picture do Emivalto Junior. | [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | | | |
 | `1.4` | Inserção do rich picture do Vítor Bessa. | [Vítor Bessa](https://github.com/Bessazs) | 04/09/2025 | | | |
+| `1.5` | Realização do Mind Map | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |

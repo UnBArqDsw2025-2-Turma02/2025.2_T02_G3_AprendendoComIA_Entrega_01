@@ -56,9 +56,9 @@
 
 **Reunião 01**
 
-<iframe width="893" height="502" src="https://www.youtube.com/embed/link" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="893" height="502" src="https://www.youtube.com/embed/xNrcE_eeX_w?si=mp6Md3UUYiyaJzMt" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-<p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>.</p>
+<p>Autor: <a href="https://github.com/FelipeFreire-gf">Felipe das Neves</a>, <a href="https://github.com/gabriel-lima258">Gabriel Lima</a>..</p>
 </div>
 
 ---
@@ -68,3 +68,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial e inserção das informações realizadas na daily | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 28/08/2025 | | | |
+| `1.1` | Inserção do link valido do video | [Gabriel Lima](https://github.com/gabriel-lima258) | 05/09/2025 | | | |

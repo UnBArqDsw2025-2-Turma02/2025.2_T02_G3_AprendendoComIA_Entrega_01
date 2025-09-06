@@ -4,10 +4,13 @@
 
 ## Sumário
 
-- [Técnica Utilizada](#Técnica-Utilizada)
-- [Objetivos](#Objetivos)
-- [Bibliografia](#bibliografia)
-- [Histórico de Versões](#histórico-de-versões)
+- [Brainstorming](#brainstorming)
+  - [Sumário](#sumário)
+  - [Técnica Utilizada](#técnica-utilizada)
+  - [Objetivos](#objetivos)
+  - [Resultado do BrainStorm](#resultado-do-brainstorm)
+  - [Bibliografia](#bibliografia)
+  - [Histórico de Versões](#histórico-de-versões)
 
 ---
 
@@ -31,7 +34,7 @@ bom esboço para servir de base para os outros documentos de ideação e mapeame
 
 ## Resultado do BrainStorm
 Realizamos o Brainstrom pelo Miro, o canvas completo esta disponível [aqui](https://miro.com/app/board/uXjVJNopTCE=/). 
-A discussão feita em sala de aula foi gravada e esta no seguinte video: <iframe width="893" height="502" src="https://youtu.be/xNrcE_eeX_w" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+A discussão feita em sala de aula foi gravada e esta no seguinte video: <iframe width="893" height="502" src="https://youtube.com/embed/xNrcE_eeX_w" title="Reunião 1 - Marventura" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Nas ideias individuais, cada membro teve uma coluna para escrever. Segue as imagens:
 ![individual1](assets/brainstorm/individual1.png)
@@ -58,3 +61,5 @@ Em consenso o resultado final do BrainStorm foi o seguinte:
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 03/09/2025 | | | |
 | `1.1` | Modelagem inicial | [Pedro Cruz](https://github.com/pfc15) | 04/09/2025 | | | |
+| `1.2` | Modelagem inicial | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |
+| `1.3` | Participação com a equipe no processo do brainstorming e na priorização das funcionalidades do aplicativo | [Felipe das Neves](https://github.com/FelipeFreire-gf), [Vitor Bessa](https://github.com/Bessazs) | 05/09/2025 | | | |

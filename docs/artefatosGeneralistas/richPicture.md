@@ -5,117 +5,77 @@
 ## Sumário
 
 - [Introdução](#Introdução)
-- [Objetivos](#Objetivos)
 - [Metodologia](#Metodologia)
-- [Artefatos](#Artefatos)
+- [Legenda do Rich Picture](#legenda-do-rich-picture)
+- [Rich Picture do AI Linguo](#rich-picture-do-ai-linguo)
+- [Descrição dos Elementos e Fluxos](#descrição-dos-elementos-e-fluxos)
 - [Bibliografia](#bibliografia)
 - [Histórico de Versões](#histórico-de-versões)
 
 ---
-
 ## Introdução
 
-O Rich Picture é uma técnica visual utilizada na engenharia de requisitos para representar de forma abrangente e intuitiva o contexto de um sistema de software. Esta ferramenta permite capturar a complexidade do domínio de negócio através de desenhos, símbolos e diagramas que facilitam a compreensão das relações entre diferentes atores, processos e entidades do sistema.
+O Rich Picture é uma técnica de modelagem de ideias pouco formal, utilizada para representar situações, desejos e necessidades por meio de desenhos e textos curtos. Diferente de diagramas técnicos, ele privilegia a simplicidade e a comunicação visual, sendo uma ferramenta poderosa para capturar, de forma intuitiva, como os diferentes atores e componentes interagem dentro de um sistema.
 
-No contexto do projeto AI Linguo, o Rich Picture serve como um instrumento fundamental para mapear visualmente todo o ecossistema de aprendizado de inglês com inteligência artificial, incluindo os usuários, funcionalidades, processos de negócio e interações entre os diversos componentes do sistema. Esta representação visual auxilia na identificação de requisitos, na comunicação com stakeholders e na validação da compreensão do domínio do problema.
-
----
-
-## Objetivos 
-
-O objetivo principal deste Rich Picture é:
-
-- **Visualizar o contexto completo** do sistema AI Linguo, incluindo todos os atores, processos e entidades envolvidas
-- **Identificar relacionamentos** entre diferentes componentes do sistema e suas dependências
-- **Facilitar a comunicação** entre desenvolvedores, stakeholders e usuários finais através de uma representação visual clara
-- **Mapear o fluxo de informações** e interações entre os diversos elementos do sistema
-- **Auxiliar na elicitação de requisitos** ao proporcionar uma visão holística do domínio do problema
-- **Documentar a arquitetura conceitual** do sistema de forma acessível e compreensível
-- **Identificar pontos de melhoria** e oportunidades de otimização no sistema
+No contexto do projeto **AI Linguo**, o Rich Picture foi utilizado para registrar de forma prática e visual as principais funcionalidades e a interação do usuário com o sistema de aprendizado.
 
 ---
 
-## Metodologia 
+## Metodologia
 
-Para a construção deste Rich Picture, foi utilizada a seguinte metodologia:
-
-### **1. Identificação dos Elementos Principais**
-- **Atores**: Usuários finais, administradores, sistema de IA, banco de dados
-- **Processos**: Fluxos de aprendizado, avaliação, feedback, gamificação
-- **Entidades**: Conteúdo educacional, progresso do usuário, métricas de desempenho
-- **Sistemas externos**: APIs de IA, serviços de reconhecimento de voz, plataformas de gamificação
-
-### **2. Mapeamento de Relacionamentos**
-- Identificação de dependências entre diferentes componentes
-- Mapeamento de fluxos de dados e informações
-- Análise de interações entre atores e processos
-- Documentação de interfaces e pontos de integração
-
-### **3. Representação Visual**
-- Uso de símbolos e ícones intuitivos para representar cada elemento
-- Organização hierárquica e espacial dos componentes
-- Diferenciação visual entre tipos de elementos (atores, processos, entidades)
-- Inclusão de legendas e anotações para facilitar a compreensão
-
-### **4. Validação e Refinamento**
-- Revisão da representação com a equipe de desenvolvimento
-- Ajustes baseados em feedback de stakeholders
-- Iteração contínua conforme o projeto evolui
-
-### **Elementos Principais Representados:**
-
-1. **Usuários Finais (Estudantes de Inglês)**
-   - Representados por ícones de usuários
-   - Conectados aos processos de aprendizado e funcionalidades do sistema
-
-2. **Sistema de Inteligência Artificial**
-   - Representado por um ícone de cérebro/IA
-   - Centralizado no diagrama, conectando-se a todas as funcionalidades principais
-
-3. **Funcionalidades Core**
-   - Tutor de Conversação IA
-   - Detecção de Voz
-   - Correção Gramatical
-   - Sistema de Gamificação
-   - Progresso de Aprendizagem
-
-4. **Processos de Negócio**
-   - Fluxo de aprendizado do usuário
-   - Sistema de avaliação e feedback
-   - Geração de relatórios de progresso
-   - Personalização de conteúdo
-
-5. **Sistemas Externos**
-   - APIs de reconhecimento de voz
-   - Serviços de processamento de linguagem natural
-   - Plataformas de gamificação
-   - Sistemas de armazenamento em nuvem
+A metodologia para a elaboração do Rich Picture consistiu em uma sessão de trabalho em dupla, realizada pelos integrantes [Leonardo de Melo](https://github.com/leozinlima) e [Felipe das Neves](https://github.com/FelipeFreire-gf). Durante o encontro, ambos discutiram as ideias centrais do projeto e desenharam o diagrama de forma colaborativa, identificando os principais componentes, fluxos e interações do sistema AI Linguo. Essa abordagem resultou em uma representação visual que consolida a visão compartilhada da dupla sobre o projeto.
 
 ---
 
-## Artefatos
+## Legenda do Rich Picture
 
-<p align="center"><b>Figura 1.</b> Primeira versão do Rich Picture.</p>
+*Tabela 1 – Legenda do Rich Picture do AI Linguo. Descreve o significado de cada ícone desenhado para a leitura do diagrama.*
 
-![Rich Picture versão 1](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/assets/richpicture1.png)
+| **Componente**             |                                                                                                               **Símbolo**                                                                                                              | **Descrição**                                                                                                                               |
+| :------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Sistema AI Linguo**      |    <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/1.png" alt="Símbolo do Sistema AI Linguo" width="100">   | Representa o núcleo da aplicação, a inteligência central que conecta todas as funcionalidades.                                              |
+| **Interação do Usuário**   |  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/2.png" alt="Símbolo da Interação do Usuário" width="100">  | Simboliza o usuário interagindo com o aplicativo, especificamente a ação de usar a câmera para fornecer contexto à IA.                      |
+| **Prática de Fala**        |     <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/3.png" alt="Símbolo da Prática de Fala" width="100">    | Representa a ação do usuário de falar (“speaking”), que é a entrada principal para os exercícios de pronúncia.                              |
+| **Análise de Pronúncia**   |  <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/4.png" alt="Símbolo da Análise de Pronúncia" width="100">  | Ilustra a funcionalidade do sistema que captura o áudio do usuário e analisa a qualidade da pronúncia.                                      |
+| **Personalidade do Tutor** | <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/5.png" alt="Símbolo da Personalidade do Tutor" width="100"> | Simboliza a capacidade de o usuário escolher entre diferentes personalidades para o tutor de IA, customizando a experiência de aprendizado. |
+| **Gamificação**            |       <img src="https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/6.png" alt="Símbolo da Gamificação" width="100">      | Representa os elementos de jogo na aplicação, como missões diárias, recompensas e troféus, para engajar e motivar o usuário.                |
 
-<p align="center"><b>Autor(a):</b><a href="https://github.com/gabriel-lima258" target = "_blank">Gabriel Lima</a></p>
+<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Leonardo de Melo</a></center>
+
+---
+
+## Rich Picture do AI Linguo
+
+![Rich Picture completo do projeto AI Linguo](https://raw.githubusercontent.com/UnBArqDsw2025-2-Turma02/2025.2_T02_G3_AprendendoComIA_Entrega_01/refs/heads/main/docs/artefatosGeneralistas/assets/richPicture/richPicture.jpeg)
+
+<center> Autor(a): <a href="https://github.com/leozinlima" target = "_blank">Leonardo de Melo</a>, <a href="https://github.com/FelipeFreire-gf" target = "_blank">Felipe das Neves</a></center>
+
+---
+
+## Descrição dos Elementos e Fluxos
+
+O Rich Picture do AI Linguo ilustra a jornada do usuário e as principais funcionalidades do sistema:
+
+1. **Sistema AI Linguo** como componente central, acessível em múltiplas plataformas (desktop e celular).
+2. **Usuário** inicia a interação; uma ação destacada é **tirar foto + interação com a IA**, permitindo enviar imagens para criar contexto para a conversa/exercício.
+3. A interação alimenta o sistema, que oferece **chatbot (IA)** e um **dicionário** para consulta.
+4. O usuário pode customizar a experiência escolhendo a **personalidade do tutor**.
+5. No ciclo de conversação, o usuário pratica **speaking** e o sistema realiza a **análise de pronúncia** para fornecer feedback.
+6. Para engajamento, a aplicação utiliza **gamificação** (p. ex., **quests diárias**, troféus e medalhas).
 
 ---
 
 ## Bibliografia
 
-> <p id="1">1. SERRANO, Milene. 02c - VideoAula - DSW-Base - RichPicture: ArqDSW - VídeosOriginais, 25 jul. 2020. 1 vídeo (12 min 13 s). Disponível em:https://unbbr-my.sharepoint.com/:v:/g/personal/mileneserrano_unb_br/ES31KXHMdmZEht-mp2SIx9YBVIBYPq5j6C8DZj7i-ie5_A?e=ytfTHl. Acesso em: 06 abr. 2025.
-</p>
+> **OPEN UNIVERSITY**. Rich pictures. OpenLearn, [s.d.]. Disponível em: https://www.open.edu/openlearn/science-maths-technology/engineering-technology/rich-pictures. 
 
-><p id= '2'> 2. KLAUS POHL, RUPP CHRIS. Requirements Engineering Fundamentals. 2nd Edition, 2015. Disponível em: https://aprender3.unb.br/pluginfile.php/2523050/mod_resource/content/4Requisitos%20%20Aula%2004%20-%20Parte%202%20RichPicture.pdf. Acesso em: 09 abr. 2025.
-</p>
-<br>
+> **VISUAL SCRIBING**. What are rich pictures?. Visual Scribing, 15 out. 2019. Disponível em: https://www.visualscribing.com/blog/2019-10-15-what-are-rich-pictures.
 
 ---
 
 ## Histórico de Versões
 
-| Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
-| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
-| `1.0` | Construção do artefato 'Rich Picture'| [Gabriel Lima](https://github.com/gabriel-lima258) | 03/09/2025 | [Leonardo de Melo](https://github.com/leozinlima)  | 03/09/2025  |   |
+| Versão | Descrição                              | Autor(es)                                          | Data de Produção | Revisor(es)                                       | Data de Revisão | Incremento do Revisor                                                           |
+| :----: | -------------------------------------- | -------------------------------------------------- | :--------------: | ------------------------------------------------- | :-------------: | :------------------------------------------------------------------------------ |
+|  `1.0` | Construção do artefato “Rich Picture”. | [Gabriel Lima](https://github.com/gabriel-lima258) |    03/09/2025    |  |       |  |
+| `1.1` | Atualização do artefato Rich Picture| [Leonardo de Melo](https://github.com/leozinlima), [Felipe das Neves](https://github.com/FelipeFreire-gf) | 05/09/2025 |  |   |   |

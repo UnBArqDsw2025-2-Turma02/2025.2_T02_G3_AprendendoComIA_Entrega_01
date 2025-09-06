@@ -61,11 +61,6 @@ O protótipo de baixa fidelidade foi construído com **esboços manuais**, permi
 </center>
 </figure>
 
----
-
-## Protótipo de Alta Fidelidade
-
-Após validações iniciais, o protótipo evoluiu para uma versão de alta fidelidade, construída em ferramenta digital. Essa etapa permitiu incluir **cores, tipografia, ícones, interações e identidade visual**, aproximando-se do design final. Foi possível realizar testes de usabilidade mais completos e observar como o público interagia com os fluxos.
 
 <figure markdown>
 <font size="3"><p style="text-align: center"><b>Figura 4</b> – Protótipo de alta fidelidade (Dashboard e progressão de XP).</p></font>
@@ -76,6 +71,28 @@ Após validações iniciais, o protótipo evoluiu para uma versão de alta fidel
 </figure>
 
 
+## Protótipo de Alta Fidelidade
+
+O nosso protótipo de alta fidelidade consiste em um deploy inicial de uma versão básica da aplicação.  
+A seguir terá um vídeo de como essa prototipação ficou.
+
+<div style="text-align:center">
+  <p><strong>Prototipação de Alta Fidelidade já com o deploy rodando</strong></p>
+
+  <iframe
+    width="560"
+    height="315"
+    src="https://www.youtube.com/embed/sYXhqw84RAI"
+    title="YouTube video player"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen>
+  </iframe>
+
+  <p>
+    Autor: <a href="https://github.com/arthurlleite">Arthur Carvalho</a>.
+  </p>
+</div>
 
 
 ---

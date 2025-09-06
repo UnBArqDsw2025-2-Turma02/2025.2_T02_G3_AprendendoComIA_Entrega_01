@@ -12,7 +12,7 @@
 
 **Presentes**: 
 
-- ✅ Arthur Carvalho Leite
+- ❌ Arthur Carvalho Leite
 - ✅ Emivalto Da Costa Tavares Junior
 - ✅ Felipe das Neves Freire
 - ✅ Gabriel Lima
@@ -69,3 +69,4 @@
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
 | `1.0` | Inserção dos dados da ata 3 | [Vitor Bessa](https://github.com/bessazs) | 01/09/2025 | | | |
+| `1.1` | Correção da participação de membros | [Vitor Bessa](https://github.com/bessazs) | 01/09/2025 | | | |
