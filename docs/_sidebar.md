@@ -31,21 +31,24 @@
   - [5. Participação](participacaoIntegrantes/integrantes.md)
 
 - **Iniciativas Extras**
-  - [6. Introdução](iniciativasExtras/introducao.md)
-      - [6.1. Histórias de Usuários](iniciativasExtras/historias.md)
-      - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
-      - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
-      - [6.4. Moscow](iniciativasExtras/moscow.md)
-      - [6.5. Three Level Scale](iniciativasExtras/threeLevel.md)
-      - [6.6. Observação](iniciativasExtras/threeLevel.md)
-      - [6.7. Organização da Equipe](participacaoIntegrantes/scrumAdaptado.md)
-      - [6.8. Questionário](iniciativasExtras/questionario.md)
+  - [6.1. Histórias de Usuários](iniciativasExtras/historias.md)
+  - [6.2. Requisitos Elicitados](iniciativasExtras/requisitosElicitados.md)
+  - [6.3. Análise de Documentos](iniciativasExtras/analiseDeDocumentos.md)
+  - [6.4. Moscow](iniciativasExtras/moscow.md)
+  - [6.5. Three Level Scale](iniciativasExtras/threeLevel.md)
+  - [6.6. Questionário](iniciativasExtras/questionario.md)
 
-- **Apresentação final do Artefato**
-  - [7. Apresentação](apresentacao/apresentacao.md)
 
   - **Atas**
   - [Ata 01](atas/ata1.md)
   - [Ata 02](atas/ata2.md)
   - [Ata 03](atas/ata3.md)
   - [Ata 04](atas/ata4.md)
+
+
+
+
+
+
+
+
