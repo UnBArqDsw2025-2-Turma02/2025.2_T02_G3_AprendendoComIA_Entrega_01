@@ -80,5 +80,5 @@ Este documento tem como objetivo registrar as principais contribuições de cada
 | :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------------: |
 | `1.0` | Modelagem inicial do documento. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Adição da tabela de contribuições e detalhamento das atividades do Felipe. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 05/09/2025 | | | |
-| `1.2` | Inclusão das contribuições de Arthur Carvalho. | [Arthur Carvalho Leite](https://github.com/arthurlleite) | 06/09/2025 | | | |
+| `1.2` | Inclusão das contribuições de Arthur Carvalho. | [Arthur Carvalho Leite](https://github.com/arthurlleite) | 05/09/2025 | | | |
 
