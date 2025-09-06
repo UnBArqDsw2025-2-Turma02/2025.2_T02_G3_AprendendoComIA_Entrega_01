@@ -120,6 +120,32 @@ Rich picture contendo a minha ideia de tutor de inglês usando IA
 </div>
 
 
+### Ideação: Mateus Bastos
+
+Mapa mental e Rich Picture na minha concepção:
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Rich Picture | Versão 1 </span>
+  <br></br>
+</center>
+
+<center>
+  <img src="../assets/mateus_rich.png" alt="Rich Picture da ideação de Mateus Bastos" width="600px">
+</center>
+
+<div align="center">
+    <p>Autor: <a href="https://github.com/Bessazs">Mateus Bastos</a>.</p>
+</div>
+
+<center>
+  <span style="background-color:#c5a352; color:white; font-size:0.8em; font-weight: bold; padding:2px 6px; border-radius:4px;"> Mapa Mental | Versão 1 </span>
+  <br></br>
+</center>
+
+<center>
+  <img src="../assets/mateus_mapa.png" alt="Mapa mental 4 da ideação de Mateus Bastos" width="600px">
+</center>
+
 
 ---
 
@@ -132,10 +158,11 @@ Rich picture contendo a minha ideia de tutor de inglês usando IA
 ## Histórico de Versões
 
 | Versão | Descrição | Autor(es) | Data de Produção | Revisor(es) | Data de Revisão | Incremento do Revisor|
-| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-------------: |
+| :----: | --------- | --------- | :--------------: | ----------- | :-------------: | :-----------------: |
 | `1.0` | Modelagem inicial | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 01/09/2025 | | | |
 | `1.1` | Desenvolvimento do conteúdo sobre a técnica utilizada e os objetivos da fase de "Diversão". | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
 | `1.2` | Inserção dos trabalhos do Felipe e do Gabriel. | [Felipe das Neves](https://github.com/FelipeFreire-gf) | 04/09/2025 | | | |
 | `1.3` | Inserção do rich picture do Emivalto Junior. | [Emivalto Junior](https://github.com/EmivaltoJrr) | 04/09/2025 | | | |
 | `1.4` | Inserção do rich picture do Vítor Bessa. | [Vítor Bessa](https://github.com/Bessazs) | 04/09/2025 | | | |
 | `1.5` | Realização do Mind Map | [Leonardo de Melo](https://github.com/leozinlima) | 04/09/2025 | | | |
+| `1.6` | Inserção do rich picture e mapa mental de Mateus Bastos. | [Mateus Bastos](https://github.com/Bessazs) | 05/09/2025 | | | |

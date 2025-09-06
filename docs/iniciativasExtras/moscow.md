@@ -45,7 +45,6 @@ Os requisitos classificados como Must representam a base inegociável do produto
 | RNF05 | Adaptabilidade para dispositivos móveis. | Não Funcional | Must | Baixa |
 | RNF09 | Verificação de segurança no login. | Não Funcional | Must | Baixa |
 
-Exportar para as Planilhas
 
 ## Should "Deveria ter"
 A categoria Should inclui requisitos que são importantes para a experiência completa do usuário. O produto ainda seria viável sem eles, mas sua ausência seria notada. Estes itens adicionam valor significativo e devem ser implementados logo após a conclusão dos requisitos "Must".
