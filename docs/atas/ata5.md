@@ -8,7 +8,7 @@
 | ---- | ------ | ------- | ----- |
 | 04/09/2025 | 21:00 | 23:36 | Microsoft Teams |
 
-**Redator**: Felipe das Neves
+**Redator**: Mateus Bastos
 
 **Presentes**: 
 
